@@ -4,11 +4,11 @@ main: #todo
     url: /Home/
 
   - title: "Information"
-    url: /publications/      
+    url: /_publications/      
     
   - title: "Research"
-    url: /talks/
+    url: /Research/
         
 
   - title: "Miscellane"
-    url: /teaching/    
+    url: /Miscellane/    
