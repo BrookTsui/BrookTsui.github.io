@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 This is my archive where one can find all my notes and haphazard writings. 
+
 # Notes
 ## High Energy Theory 
 1. [Black Hole Thermodynamics, Negative Temperature](../files/BH-T.pdf)
@@ -13,14 +14,14 @@ This is my archive where one can find all my notes and haphazard writings.
 
 This is the PDF version (Chinese) of my report at the Physics Hall about black hole thermodynamics and negative temperature. 
 
-A brief introduction to the topic covering the derivation of Hawking temperature, the discussion of negative temperature and exotic-BTZ black holes. 
+A brief introduction to the topic covering the basic BH thermodynamics, the derivation of Hawking temperature, the discussion of negative temperature and exotic-BTZ black holes. 
  
 
 2. String Theory and CFT
 
-Cover the front half of David Tong's lecture.
+The string part covers mainly the front half of David Tong's lecture, and the CFT part comes from several sources. 
 
-3. T-duality
+3. T-Duality
 
 The final report of the class about string theory. 
 
@@ -28,7 +29,7 @@ The final report of the class about string theory.
 
 I lavish to teach others since it also benefits me a lot. This note writen when I was teaching one of my roommate about QED, which he has to learn for quantum optics for the study of Ph.D.
 
-5. Majorana Fermions
+5. [Majorana Fermions](../files/majorana.pdf)
 
 The first time I came to it, I was fascinated by this interesting object, but I failed to understand its meaning then. Years later, when I began to study neutrino physics, it appears again and I tried to completely study it. 
 
@@ -44,7 +45,7 @@ This is the report I gave in the collaboration with Prof. Tsai of the University
 
 2. [PEPV](../files/pepv.pdf)
 
-This is the report I made to the professors from Turkey on the ideas of my theoretical work in the PEPV. Some ideas were unclear then, and I developed them later on, the final form is in the paper. 
+This is the report I made to the professors from Turkey on the ideas of my theoretical work in the PEPV. Some ideas were unclear then, and I developed them later on. The final form is in the paper. 
 
 
 
