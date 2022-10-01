@@ -14,7 +14,6 @@ redirect_from:
 
 测试下链接文件  
 
-
 [CV](../files/Horan%20Tsui's%20CV.pdf)
 
 
@@ -22,7 +21,7 @@ redirect_from:
 
 | Course                                                       | Score | Textbook                                                     |
 | ------------------------------------------------------------ | ----- | ------------------------------------------------------------ |
-| calculus-1                                                   | 90    | (Advanced Mathematics I)Sichuan University                   |
+| calculus-1                                                   | 90    | Sichuan University &<;Advanced Mathematics I &>;             |
 | calculus-2                                                   | 95    | Sichuan University <Advanced Mathematics II>                 |
 | Feynman Physics: Introductory Lectures                       | 99    | Feynman <The Feynman Lectures on Physics>                    |
 | Electromagnetism                                             | 97    | Zhao Kaihua<Electromagnetism>                                |
