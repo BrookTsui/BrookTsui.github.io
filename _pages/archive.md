@@ -11,7 +11,6 @@ This is my archive where one can find all my notes and haphazard writings.
 ## High Energy Theory 
 1. [Black Hole Thermodynamics, Negative Temperature](../files/BH-T.pdf)
 
-
 This is the PDF version (Chinese) of my report at the Physics Hall about black hole thermodynamics and negative temperature. 
 
 A brief introduction to the topic covering the basic BH thermodynamics, the derivation of Hawking temperature, the discussion of negative temperature and exotic-BTZ black holes. 

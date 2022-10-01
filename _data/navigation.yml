@@ -13,7 +13,7 @@ main: #todo
     url: /archive/
 
   - title: "Miscellane"
-    url: /teaching/    
+    url: /miscellane/    
 
   - title: "Course"
     url: /course/  
