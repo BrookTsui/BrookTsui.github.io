@@ -15,8 +15,8 @@ redirect_from:
 | Thermal Physics                                              | 92    | Xiang Gang , _Thermal Physics_                               |
 | Mathed of Mathematical Physics                               | 90    | Wu Chongshi , _Mathed of Mathematical Physics_               |
 | Electrodynamics                                              | 91    | Griffith , _Introduction to Electrodynamics_                 |
-| Theoreticl Mechanics                                         | 96    | Shumin Li , _Classical Mechanics_                            |
-| Thermodynamics and Statistical Physics                       | 90    | Zhicheng Wang , _Thermodunamics and Statistical Physics_&Kardar_Statistical Physics of Particles_ |
+| Theoreticl Mechanics                                         | 96    | Li Shumin , _Classical Mechanics_                            |
+| Thermodynamics and Statistical Physics                       | 90    | Wang Zhicheng , _Thermodunamics and Statistical Physics_&Kardar_Statistical Physics of Particles_ |
 | Quantum Mechanics                                            | 90    | Sakurai , _Modern Quantum Mechanics_                         |
 | Computational Physics                                        | 87    | Sauer , _Numerical Analysis_                                 |
 | Tensor, Groups and Symmetries in Physics                     | 94    | Sternberg , _Physics of symmetry_ & Jeevanjee _An Introduction to Tensors and Group Theory for Physicists_ |
