@@ -8,7 +8,8 @@ author_profile: true
 This is my archive where one can find all my notes and haphazard writings. 
 # Notes
 ## High Energy Theory 
-1. Black Hole Thermodynamics, Negtive Temperature
+1. [Black Hole Thermodynamics, Negative Temperature](../files/BH-T.pdf)
+
 
 This is the PDF version (Chinese) of my report at the Physics Hall about black hole thermodynamics and negative temperature. 
 
@@ -34,12 +35,10 @@ The first time I came to it, I was fascinated by this interesting object, but I 
 ---
 
 # Miscellanous Thoughts 
-1. GUP, the Generalized Uncertainty Principle. 
+1. [GUP, the Generalized Uncertainty Principle](../files/GUP.pdf)
 
 This is a short note about my idea for GUP. When I was scanning ArXiv, some related articles attracted my attention, and after researching I found the way people treat it is not satisfying. Therefore I tried to give my solution. 
 
-The result, however, still has some confusing traits like negative entropy, which also appears in several GUP models. 
-
-I have not published it since I failed to give a consistent claim. 
+The result, however, still has some confusing traits like negative entropy, which also appears in several GUP models, and I thus have not published it since I failed to convence myself. 
 
 In hindsight, the mentor's argument about the existence of negative temperature behavior in BH spacetime possibly originates from the GUP. 

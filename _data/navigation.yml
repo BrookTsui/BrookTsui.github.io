@@ -4,10 +4,10 @@ main: #todo
     url: /
 
   - title: "Information"
-    url: /publications/      
+    url: /information/      
     
   - title: "Research"
-    url: /talks/
+    url: /research/
 
   - title: "Archive"      
     url: /archive/
@@ -15,5 +15,5 @@ main: #todo
   - title: "Miscellane"
     url: /teaching/    
 
-  - title: "My Universe"
-    url: /cv/  
+  - title: "Course"
+    url: /course/  
