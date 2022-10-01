@@ -8,8 +8,8 @@ redirect_from:
 ---
 | Core Course                                                  | Score | Textbook                                                     |
 | ------------------------------------------------------------ | ----- | ------------------------------------------------------------ |
-| calculus-1                                                   | 90    | Sichuan University , _Advanced Mathematics I_                |
-| calculus-2                                                   | 95    | Sichuan University , _Advanced Mathematics II_               |
+| Calculus-1                                                   | 90    | Sichuan University , _Advanced Mathematics I_                |
+| Calculus-2                                                   | 95    | Sichuan University , _Advanced Mathematics II_               |
 | Feynman Physics: Introductory Lectures                       | 99    | Feynman , _The Feynman Lectures on Physics_                  |
 | Electromagnetism                                             | 97    | Zhao Kaihua , _Electromagnetism_                             |
 | Thermal Physics                                              | 92    | Xiang Gang , _Thermal Physics_                               |
