@@ -1,7 +1,7 @@
 # main links links
 main: #todo
   - title: "Home"
-    url: /
+    url: /Home/
 
   - title: "Information"
     url: /publications/      
