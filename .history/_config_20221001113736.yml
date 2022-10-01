@@ -83,7 +83,7 @@ author:
   name             : "BrookTsui"
   avatar           : "profile.png" # todo
   bio              : "Your biography for the left-hand sidebar" #todo
-  location         : "Wangjiang Campus,<br> Chengdu,<br> Sichuan Province,<br> China"
+  location         : "Wangjiang Campus,<br Chengdu, Sichuan Province, China"
   uri              :
   bitbucket        :
   codepen          :
