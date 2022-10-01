@@ -14,6 +14,8 @@ I also lavish its pronunciation similar to 'book.'
 Born on 15 Aug. 2000, I grew up in a typical family in China. 
 My home town located on the loess plateau has nothing special. Chengdu, where I have been pursuing my B.S. in physics, has plenty of fancy stories to tell other than the famous Sichuan Cuisine. 
 
+![tupian]("1.png")
+
 The golden shimmering city where I came to my genuine interest, my cute beloved, and my circuitous upgrowing from which the vulnerable me now set off for the future. 
 
 Reading was my once escapism from the hustle and bustle. The joyous ecstasy emerges in silence, leading me to roam around the majestic world, where I met Plato and B. Russell, listened to the brief history of humankind, experienced the brief history of time, took a ride on the captain's ship, and eventually landed on the archipelago called physics. 
