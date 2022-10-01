@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-|                      Core Course     <center>                         | Score |                           Textbook      <center>                     |
+|                      Core Course    align="center"                        | Score |                           Textbook     align="center"                     |
 | ------------------------------------------------------------ | :-----: | ------------------------------------------------------------ |
 | Calculus-1                                                   | 90    | Sichuan University , _Advanced Mathematics I_                |
 | Calculus-2                                                   | 95    | Sichuan University , _Advanced Mathematics II_               |
