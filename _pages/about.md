@@ -16,7 +16,7 @@ I also lavish its pronunciation similar to 'book.'
 ---
 
 Born on 15 Aug. 2000, I grew up in a typical family in China. 
-My home town located on the loess plateau has nothing special. Chengdu, where I have been pursuing my B.S. in physics, has plenty of fancy stories to tell other than the famous Sichuan Cuisine. 
+My home town located on the loess plateau has nothing special. However, Chengdu, where I have been pursuing my B.S. in physics, has plenty of fancy stories to tell other than the household Sichuan Cuisine. 
 
 The golden shimmering city where I came to my genuine interest, my cute beloved, and my circuitous upgrowing from which the vulnerable me now set off for the future. 
 

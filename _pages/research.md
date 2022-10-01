@@ -12,7 +12,6 @@ author_profile: true
 
 After taking, 
 
-
 Under the instruction of Prof. HaiTang Yang, I learned the curved spacetime QFT and classical black hole thermodynamics and made a Latex note for the latter.}
         \item {In the investigation, I was intrigued by the negative temperature physics and studied some related topics. Also, to describe the negative T behavior that potentially appears in energy-restricted S.H.O., I posited an integer partition formula with good accuracy. And found some papers discussing such negative T condition for black holes.}
         \item {Under the instruction of Prof. Peng Wang, I studied the chaos behavior of black holes, especially the reaction of null and time-like geodesics of a point-like particle under the phase transition, we found the chaos of these geodesics, which means their free energies undergo a discontinuous change, meanwhile the Lyapunov exponent varies.}
