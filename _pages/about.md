@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 > 等你发哈哈
+测试下链接文件
+[CV]("../files/Horan%20Tsui's%20CV.pdf")
