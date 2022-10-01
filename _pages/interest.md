@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Information"
-permalink: /information/
+title: "Interest"
+permalink: /interest/
 author_profile: true
 ---
 
@@ -19,6 +19,6 @@ Qauntum Hall Effect
 
 ## General relativity
 
-![Cat & Cuverd Spacetime](cat.jpg)
+![tupian](catgr.jpg)
 
 

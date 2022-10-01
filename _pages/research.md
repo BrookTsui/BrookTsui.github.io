@@ -10,15 +10,23 @@ author_profile: true
 - Mentor: Haitang Yang, Peng Wang
 - Data: Dec. 2020- Jun. 2021
 
-After taking, 
+Our original argument is that if one considers the horizon radius as the maximum position uncertainty of the singularity, there must be a minimum energy uncertainty $\Delta E$. However, the radius of the horizon is generally proportional to the energy. One thus may think there is a limit of the black hole energy as $E+\Delta E$. The upper bound of energy usually implies the possibility of negative temperature, hence the project. 
 
-Under the instruction of Prof. HaiTang Yang, I learned the curved spacetime QFT and classical black hole thermodynamics and made a Latex note for the latter.}
-        \item {In the investigation, I was intrigued by the negative temperature physics and studied some related topics. Also, to describe the negative T behavior that potentially appears in energy-restricted S.H.O., I posited an integer partition formula with good accuracy. And found some papers discussing such negative T condition for black holes.}
-        \item {Under the instruction of Prof. Peng Wang, I studied the chaos behavior of black holes, especially the reaction of null and time-like geodesics of a point-like particle under the phase transition, we found the chaos of these geodesics, which means their free energies undergo a discontinuous change, meanwhile the Lyapunov exponent varies.}
-        \item {Then investigated the behavior of a classical string in RN-Ads spacetime, and found that this string will oscillate when it approaches the black hole, and its Lyapunov exponent changes completely discontinuously.}
-        \item {Due to my health issue, I quit the group in Jun. 2021, and the paper about the chaos was published on JHEP on 2022.}
-      \end{cvitems}
-    }
+After studying BH physics and quantum mechanics, I realized it was wrong eventually. There is no upper limit of black holes, except for the ineffable Planck unit. That the uncertainty virtually leads to the Hawking radiation instead of the negative temperature is the conclusion. 
+
+But we still tried to probe the possibility of negative temperature. In this period, I studied the energy-bounded S. H. O.s as the prototype and posited a naive formula about integral partition. 
+
+Also, since the temperature is defined as $\frac{\partial E}{\partial S}$, it is straightforward to posit a process with $\Delta S>0$ but $\Delta E<0$ or vice versa. We did consider the negative-mass objects or white holes, but I soon gave up since they are both radical. 
+
+Meanwhile, I also learned the phase transition and the chaotic behavior of BHs for interest and have derived the Lyapunov exponent for the RN-AdS BH. 
+
+Nonetheless, the pandemic began to rage. Quarantined at home without enough communication with the mentor, seeing the program as grim, I eventually decided to quit it. 
+
+When logging this period, I came to the paper written by T. Jacobson *et al*  on the negative temperature, in which they considered the BHs in the casual diamonds with the appearance of an upper energy bound. 
+
+In hindsight, I have learned a lot from this subject, which has led me into the palace of theoretical physics. I appreciate of all of it in terms of this. However, this is also my naive 
+
+The true value of a person is determined, first of all, by the extent to which and in what sense he is liberated from the self. 
 
 ---
 

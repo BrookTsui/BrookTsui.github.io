@@ -3,8 +3,8 @@ main: #todo
   - title: "Home"
     url: /
 
-  - title: "Information"
-    url: /information/      
+  - title: "Interest"
+    url: /interest/      
     
   - title: "Research"
     url: /research/
