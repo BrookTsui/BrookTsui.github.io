@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "BrookTsui's Home Page"
+title                    : "BrookTsui"
 title_separator          : "-"
 name                     : "BrookTsui"
 description              : "BrookTsui personal description"
@@ -84,12 +84,11 @@ author:
   avatar           : "profile.png" # todo
   bio              : "Your biography for the left-hand sidebar" #todo
   location         : "Wangjiang Campus,<br>Chengdu,<br>Sichuan Province,<br>China"
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  github           : "BrookTsui"
-  email            : "L1919159@Gmail.com"
-  linkedin         : "https://www.linkedin.com/in/Brook%20Tsui"
+  email            : "jhyu@itp.ac.cn"
 
 
 
