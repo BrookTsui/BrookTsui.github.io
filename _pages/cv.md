@@ -6,8 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-| Core Course                                                  | Score | Textbook                                                     |
-| ------------------------------------------------------------ | ----- | ------------------------------------------------------------ |
+|                      Core Course                             | Score |                           Textbook                           |
+| ------------------------------------------------------------ | :-----: | ------------------------------------------------------------ |
 | Calculus-1                                                   | 90    | Sichuan University , _Advanced Mathematics I_                |
 | Calculus-2                                                   | 95    | Sichuan University , _Advanced Mathematics II_               |
 | Feynman Physics: Introductory Lectures                       | 99    | Feynman , _The Feynman Lectures on Physics_                  |
