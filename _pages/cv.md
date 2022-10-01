@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+Here is my selected course scores: 
 |                      Core Course                          | Score |                           Textbook                      |
 | ------------------------------------------------------------ | :-----: | ------------------------------------------------------------ |
 | Calculus-1                                                   | 90    | Sichuan University , _Advanced Mathematics I_                |
