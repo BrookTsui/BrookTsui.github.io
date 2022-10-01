@@ -28,9 +28,6 @@ Look up at the sky, a few birds flying across different disciplines of physics, 
 
 So I beat on. 
 
-
+> *The powerful play goes on, and you may contribute a verse.*
 ![tupian](whitman.jpg)
-*The powerful play goes on, and you may contribute a verse.*
-
-> 等你发哈哈  
 
