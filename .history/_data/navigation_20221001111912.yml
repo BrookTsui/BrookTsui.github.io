@@ -1,0 +1,23 @@
+# main links links
+main: #todo
+  - title: "Home"
+    url: /Home/
+
+  - title: "Information"
+    url: /Information/    
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Research"
+    url: /Research/
+        
+  - title: "miscellane"
+    url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Guide"
+    url: /markdown/
+home, information, research, cv, miscellane 

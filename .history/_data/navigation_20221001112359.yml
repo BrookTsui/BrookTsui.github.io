@@ -10,5 +10,13 @@ main: #todo
     url: /Research/
         
 
+    
+  - title: "CV"
+    url: /cv/
+
   - title: "Miscellane"
     url: /Miscellane/    
+
+
+home, information, research, cv, miscellane 
+z

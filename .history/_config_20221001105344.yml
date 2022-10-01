@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Brook Land"
 title_separator          : "-"
 name                     : "BrookTsui"
-description              :  "BrookTsui personal description"
+description              : &description "personal description"
 url                      : https://BrookTsui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BrookTsui/BrookTsui.github.io"
@@ -80,10 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "BrookTsui"
-  avatar           : "profile.png" # todo
-  bio              : "Your biography for the left-hand sidebar" #todo
-  location         : "Wangjiang Campus, Chengdu, Sichuan Province, China"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +107,14 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-
+  steam            :
+  tumblr           :
+  twitter          : "replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files
