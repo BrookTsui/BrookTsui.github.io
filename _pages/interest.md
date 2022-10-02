@@ -27,8 +27,12 @@ Besides, the potential deviation of W-boson mass from SM also implies the incomp
 From both theoretical and experimental aspects, neutrino physics is a subject not to be missed. Moreover, I secretly believe it is probably one of the rare subjects where theories and experiments parade abreast as of now.
 
 # Black Hole Thermodynamics & Gravity/Gauge Duality 
-By the pioneer work of Bekenstein and S. Hawking,
+The pioneering work done by Bekenstein and Hawking has opened the vista to a brand new physical world, where quantum marries gravity. 
 
+The ineffable area entropy implies the holography principle, the great revolution of our understanding of spacetime and information. This field has proved fruitful. 
+
+The complexity proposed by L. Susskind 
+and the recent progress made by A. Wall about the 
 
 # Quantum Field Thoery
 
