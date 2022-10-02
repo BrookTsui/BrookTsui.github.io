@@ -11,9 +11,7 @@ Want to understand and possibly master the essence of important physics, and the
 
 ## Neutrino Physics
 
-It shocked me when knowing mass eigenstates are not necessarily interactive eigenstates. 
-
-This results the massive neutrino oscillation, which has been observed by the SuperK and SNO, providing the first firm evidence of beyond the standard model.
+It shocked me when knowing mass eigenstates are not necessarily interactive eigenstates. This results the massive neutrino oscillation, which has been observed by the SuperK and SNO, providing the first firm evidence of beyond the standard model.
 
 Currently neutrino physics has vast experimental progress but still cannot address competely theoretical puzzles from the tiny neutrino masses:
 1. What is the origin of neutrino mass? Is it Dirac or Majorana-type? 
@@ -26,19 +24,19 @@ These question can be answered by the low-energy experiments, such as $0\nu \bet
 
 Besides, the potential deviation of W-boson mass from SM also implies the incompleteness of the electroweak theory. 
 
-From both theoretical and experimental aspects, neutrino physics is a subject not to be missed. Moreover, I secretly believe it is probably one of the rare subjects where theories and experiments parade abreast. 
+From both theoretical and experimental aspects, neutrino physics is a subject not to be missed. Moreover, I secretly believe it is probably one of the rare subjects where theories and experiments parade abreast as of now.
 
-## Black Hole Thermodynamics
-The Bekenstein 
-
-## AdS/CFT
-dadadadada 
-
+## Black Hole Thermodynamics & Gravity/Gauge Duality 
+By the pioneer work of Bekenstein and S. Hawking,
 
 
 ## Quantum Field Thoery
 
 There are many unknown and unsolved problems in QFT, 
+
+This
+
+Quote witten, we have yet to understand the quantum field theory. 
 
 Paraphrase an interview of A. Zee: 
 I like to classify myself as a quantum field theorist. It is the tool and language of particle physics and can be used to describe many things ... My entire academic life has focused on the universality of physics - many concepts can apply across disciplines. 
@@ -48,12 +46,13 @@ I have read an answer by Xiaogang Wen
 ## Quantum Matter
 The interest for this field originated from a lecture about the Black Hole/Superconductor correspondence given by S. Hartnor at Standford University. He mentioned that the 
 
-Later on, I tried to read the note about Quantum Hall Effect (QHE) written by David Tong, 
+Later on, I tried to read the note about Quantum Hall Effect (QHE) written by David Tong, a
+
+Topological order 
 
 
 
-## General Relativity
-
+## Classical General Relativity
 
 GR was once my favorite subject, and I secretly believed it must be the perfect theory, 
 
@@ -62,7 +61,7 @@ Highly recommend the book of S. Weinberg and the updating note of Blau. They are
 
 Other than this, there are many good notes focusing on pariticular subjects, like E. Witten's note about the casual structure. 
 
-
+Recently, S. T. Yau has proved the non-local angular momentum in the curved spacetime, and I found the classical GR, especially the very foucs on Einstein equation as well as the differential geometry of spacetime are fanscinating. 
 
 ![tupian](catgr.jpg)
 
