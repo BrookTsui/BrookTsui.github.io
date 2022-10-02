@@ -4,7 +4,6 @@ title: "Interest"
 permalink: /interest/
 author_profile: true
 ---
-
 # Physics Interest
 I interest in many topics, and enjoy the diversity. 
 
