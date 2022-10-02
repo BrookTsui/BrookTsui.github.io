@@ -8,7 +8,7 @@ author_profile: true
 ## 1. Black Hole Thermodynamics
 - Institution: Sichuan University, China
 - Mentor: Haitang Yang, Peng Wang
-- Data: Dec. 2020- Jun. 2021
+- Data: Dec. 2020 - Jun. 2021
 
 Our original argument is that if one considers the horizon radius as the maximum position uncertainty of the singularity, there must be a minimum energy uncertainty $\Delta E$. However, the radius of the horizon is generally proportional to the energy. One thus may think there is a limit of the black hole energy as $E+\Delta E$. The upper bound of energy usually implies the possibility of negative temperature, hence the project. 
 
@@ -36,9 +36,7 @@ The true value of a person is determined, first of all, by the extent to which a
 - Mentor: Xingde Lin
 - Data: Apr. 2022 - Now
 
-It is a part of the conclusion for one of my long-lagging questions since I was learning QM, what will happen if we alter the (anti-)commutators?   
-
-From the aspect of the comparatively perfect number field, complex number, $\pm1$ is nothing but two incidences, and the more general relation between operators shall be $ab+e^{i \theta} ba=0$. What will result from it? 
+It is a part of the conclusion for one of my long-lagging questions since I was learning QM, what will happen if we alter the (anti-)commutators? From the aspect of the comparatively perfect number field, complex number, $\pm1$ is nothing but two incidences, and the more general relation between operators shall be $ab+e^{i \theta} ba=0$. What will result from it? 
 
 One day, my friend showed me their current work relative to it, and they needed a theory guy since they are experimentalists. Then I said yes. 
 
@@ -52,7 +50,7 @@ At the same time, I found some secret mistakes in the phase structure made by ot
 
 Other than the exotic transition in atoms, we also considered its possible appearance in the nucleus, where one can make a much more precise detection. After research, I rejected this plan since the shell model is not precise, and the processes of nuclear have yet to be clarified. The argument would thus be convoluted. 
 
-The extremely small $\chi$ suppressed the exotic transition that is experimentally interesting. However, to bound its value from experiments, Choosing the appropriate channel and atoms is necessary. We are not satisfied with this part of the original paper and have tried to posit a more consistent plan and explanation. 
+The extremely small $\chi$ suppresses the exotic transition that is experimentally interesting. To bound its value from experiments, Choosing the appropriate channel and atoms is necessary. We are not satisfied with this part of the original paper and have tried to posit a more consistent plan and explanation. 
 
 The paper is in writing, and we hope to publish it at the end of the year. 
     
