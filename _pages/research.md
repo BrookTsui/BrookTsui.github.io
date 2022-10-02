@@ -60,6 +60,14 @@ The paper is in writing, and we hope to publish it at the end of the year.
 - Mentor: Yushin Tsai
 - Date: July 2022 - Now
 
+This is curcuitous story. 
+
+At the beginning of March, 2022, I sent an email to Prof. Tsai asking if he wish to enroll a student for the summer research. He rejected since there had already been 4 students in his lab, but was welcome for my physical questions. And we therefore have keep in communication. 
+
+At the very beginning, I just tried to follow his works that I interest in, about the unitary bound and 
+
+
+
         \item {I did the background research on the topic and have discussed the possible way of calculating the Hawking radiation.}
         \item {During this period, I happen to find a research field called GUP, the generalized uncertainty principle and posited my generalization, which could yield some results more naturally. I collated it into a short paper and shared it with Prof. Tsai, but since it seems hard to explain some by-products, we finally did not try to elaborate on it. }
         \item {After studying the works done by Page, Unruh, and others, we have been now trying to reproduce the Hawking radiation spectra for heavy massive scalar particles. }
@@ -72,6 +80,8 @@ The paper is in writing, and we hope to publish it at the end of the year.
 - Institution: Institute of Theoretical Physics, Chinese Academy of Sciences, China
 - Mentor: Jianghao Yu
 - Date: Aug. 2022 - Now
+
+But since I am a 
 
 \item {I have learned the electroweak theory, the neutrino mass model, including the Seesaw mechanism, and neutrino oscillation processes, including the MSW effect and collective oscillation, from the pendulum aspect and Boltzmann equation aspect.}
         \item {Studied the solar neutrino problem, the formation of neutron stars and the role neutrinos play in it.}
