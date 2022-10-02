@@ -8,7 +8,7 @@ author_profile: true
 ## 1. Black Hole Thermodynamics
 - Institution: Sichuan University, China
 - Mentor: Haitang Yang, Peng Wang
-- Data: Dec. 2020 - Jun. 2021
+- Date: Dec. 2020 - Jun. 2021
 
 Our original argument is that if one considers the horizon radius as the maximum position uncertainty of the singularity, there must be a minimum energy uncertainty $\Delta E$. However, the radius of the horizon is generally proportional to the energy. One thus may think there is a limit of the black hole energy as $E+\Delta E$. The upper bound of energy usually implies the possibility of negative temperature, hence the project. 
 
@@ -34,7 +34,7 @@ The true value of a person is determined, first of all, by the extent to which a
 ## 2. Non-cummutative Spacetime and Pauli Exclusion Principle Violation(PEPV)
 - Institution: Sichuan University, China
 - Mentor: Xingde Lin
-- Data: Apr. 2022 - Now
+- Date: Apr. 2022 - Now
 
 It is a part of the conclusion for one of my long-lagging questions since I was learning QM, what will happen if we alter the (anti-)commutators? From the aspect of the comparatively perfect number field, complex number, $\pm1$ is nothing but two incidences, and the more general relation between operators shall be $ab+e^{i \theta} ba=0$. What will result from it? 
 
@@ -59,7 +59,7 @@ The paper is in writing, and we hope to publish it at the end of the year.
 ## 3. Axion-like Massive Scalars from Hawking Emission of Primordial Black Holes
 - Location: University of Notre Dame, USA
 - Mentor: Yushin Tsai
-- Data: July 2022 - Now
+- Date: July 2022 - Now
 
         \item {I did the background research on the topic and have discussed the possible way of calculating the Hawking radiation.}
         \item {During this period, I happen to find a research field called GUP, the generalized uncertainty principle and posited my generalization, which could yield some results more naturally. I collated it into a short paper and shared it with Prof. Tsai, but since it seems hard to explain some by-products, we finally did not try to elaborate on it. }
@@ -72,7 +72,7 @@ The paper is in writing, and we hope to publish it at the end of the year.
 ## 4. Neutrino Mass Problem and Beyond
 - Institution: Institute of Theoretical Physics, Chinese Academy of Sciences, China
 - Mentor: Jianghao Yu
-- Data: Aug. 2022 - Now
+- Date: Aug. 2022 - Now
 
 \item {I have learned the electroweak theory, the neutrino mass model, including the Seesaw mechanism, and neutrino oscillation processes, including the MSW effect and collective oscillation, from the pendulum aspect and Boltzmann equation aspect.}
         \item {Studied the solar neutrino problem, the formation of neutron stars and the role neutrinos play in it.}
