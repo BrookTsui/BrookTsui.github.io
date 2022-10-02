@@ -62,17 +62,19 @@ The paper is in writing, and we hope to publish it at the end of the year.
 
 This is curcuitous story. 
 
-At the beginning of March, 2022, I sent an email to Prof. Tsai asking if he wish to enroll a student for the summer research. He rejected since there had already been 4 students in his lab, but was welcome for my physical questions. And we therefore have keep in communication. 
+At the beginning of March 2022, I sent an email to Prof. Tsai asking if he intended to enroll a student for the summer research. He rejected it since there had already been four students in his lab. But he was welcome for my physical questions. And we, therefore, have kept in touch. 
 
-At the very beginning, I just tried to follow his works that I interest in, about the unitary bound and 
+Initially, I just tried to follow [his work about the unitary bound](../files/ubound.pdf), which I found interesting since I used to rake it as granted. During this period, I also sent him my idea about the GUP, although we did not focus on it  since there are some peculiar traits hard to justify. 
 
+The question-and-answer exchange lasted for several months, and the collaboration began in July. 
 
+It is about the Hawking emission, which I have learned a lot in the first research but overlooked the detailed calculation of the emission rate. Thus I usually feel confused about the Page curve, wondering how to evaluate the vaporating time. 
 
-        \item {I did the background research on the topic and have discussed the possible way of calculating the Hawking radiation.}
-        \item {During this period, I happen to find a research field called GUP, the generalized uncertainty principle and posited my generalization, which could yield some results more naturally. I collated it into a short paper and shared it with Prof. Tsai, but since it seems hard to explain some by-products, we finally did not try to elaborate on it. }
-        \item {After studying the works done by Page, Unruh, and others, we have been now trying to reproduce the Hawking radiation spectra for heavy massive scalar particles. }
-         \end{cvitems}
-    }
+I first read two papers by [Unruh](../files/Unruh.pdf) and [Page](../files/Page.pdf) for basic schemes and found them correlated somehow. After reading [Hawking's original paper](../files/Haw75.pdf), I eventually understood the logic of the emission rate, which corrected my naive understanding that Hawking radiation originates merely from the coordinate transformation. I have gave a [report](../files/hawkingppt.pdf) to Prof. Tsai and the postdoc Tao in the meeting. 
+
+By partial wave decomposition and equivalent-potential trick, I then began calculation by numerical methods. After detouring to the Numerov method and other regression simulations, the right behavior eventually appears.
+
+To be continued. 
 
 ---
 
@@ -82,6 +84,7 @@ At the very beginning, I just tried to follow his works that I interest in, abou
 - Date: Aug. 2022 - Now
 
 But since I am a 
+
 
 \item {I have learned the electroweak theory, the neutrino mass model, including the Seesaw mechanism, and neutrino oscillation processes, including the MSW effect and collective oscillation, from the pendulum aspect and Boltzmann equation aspect.}
         \item {Studied the solar neutrino problem, the formation of neutron stars and the role neutrinos play in it.}
