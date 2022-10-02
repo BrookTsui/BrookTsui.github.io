@@ -64,16 +64,22 @@ This is curcuitous story.
 
 At the beginning of March 2022, I sent an email to Prof. Tsai asking if he intended to enroll a student for the summer research. He rejected it since there had already been four students in his lab. But he was welcome for my physical questions. And we, therefore, have kept in touch. 
 
-Initially, I just tried to follow [his work about the unitary bound](../files/ubound.pdf), which I found interesting since I used to rake it as granted. During this period, I also sent him my idea about the GUP, although we did not focus on it  since there are some peculiar traits hard to justify. 
+Initially, I just tried to follow [his work about the unitary bound](../files/ubound.pdf), which I found interesting since I used to take it as granted. Meanwhile, I have consulted him many times the questions about the electroweak theory. During this period, I also sent him my idea about the GUP, although we did not elaborate on it since there are some peculiar traits hard to justify. 
 
 The question-and-answer exchange lasted for several months, and the collaboration began in July. 
 
-It is about the Hawking emission, which I have learned a lot in the first research but overlooked the detailed calculation of the emission rate. Thus I usually feel confused about the Page curve, wondering how to evaluate the vaporating time. 
+It is about the massive scalars produced in primordial black holes, so we should first derive the Hawking emission, which I have learned a lot in the first research but overlooked the detailed calculation of the rate. (I usually feel confused about the Page curve, wondering how to evaluate the vaporating time.)
 
-I first read two papers by [Unruh](../files/Unruh.pdf) and [Page](../files/Page.pdf) for basic schemes and found them correlated somehow. After reading [Hawking's original paper](../files/Haw75.pdf), I eventually understood the logic of the emission rate, which corrected my naive understanding that Hawking radiation originates merely from the coordinate transformation. I have gave a [report](../files/hawkingppt.pdf) to Prof. Tsai and the postdoc Tao in the meeting. 
+I first read two papers by [Unruh](../files/Unruh.pdf) and [Page](../files/Page.pdf) for basic schemes and found them correlated somehow. Their analytical derivation is both on the low-energy scale. Although Unruh discussed the massive scalars in Schwarzschild spacetime, but he did not plot the whole diagram covering the region of interest. 
 
-By partial wave decomposition and equivalent-potential trick, I then began calculation by numerical methods. After detouring to the Numerov method and other regression simulations, the right behavior eventually appears.
+After research, we found a very recent [paper](../files/carolina.pdf) talking about the complete spectra of massive scalars in RN BHs, but [those](../files/Park.pdf) related to the Schwarzschild are rarely fetched, which might have been done by physicists for various motivations, but it seems to lack comprehensive work introducing it to particle physicists since the widely used program for calculating the black hole emission rate, [BlackHawk](https://blackhawk.hepforge.org/), has not included the massive particles. 
 
+So we thought this would be the first work worth doing that to introduce sysmetically and comprehensively the massive emission rate to particle physicists, especially who interested in dark matters, axions, *etc*. 
+
+After reading [Hawking's original paper](../files/Haw75.pdf), I understood the logic of the emission rate, which corrected my naive understanding that Hawking radiation originates merely from the coordinate transformation. Later on, I gave a [report](../files/hawkingppt.pdf) to Prof. Tsai and the postdoc Tao in the meeting. 
+
+By partial wave decomposition and equivalent-potential trick, I then began calculation by numerical methods. After detouring to the Numerov method and other regression simulations, the right behavior eventually appears by NDSolve built in MMA. 
+ 
 To be continued. 
 
 ---
