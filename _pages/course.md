@@ -18,7 +18,6 @@ redirect_from:
 | Theoreticl Mechanics                                         | 96    | Li Shumin , _Classical Mechanics_                            |
 | Thermodynamics and Statistical Physics                       | 90    | Wang Zhicheng , _Thermodunamics and Statistical Physics_&Kardar_Statistical Physics of Particles_ |
 | Quantum Mechanics                                            | 90    | Sakurai , _Modern Quantum Mechanics_                         |
-| Computational Physics                                        | 87    | Sauer , _Numerical Analysis_                                 |
 | Tensor, Groups and Symmetries in Physics                     | 94    | Sternberg , _Physics of symmetry_ & Jeevanjee _An Introduction to Tensors and Group Theory for Physicists_ |
 | General Relativity                                           | 92    | Sean Carroll , _Spacetime and Geometry: An introduction to general relativity_ |
 | Quantum Field Theory                                         | 90    | Peskin , _An introduction to quantum field theory_           |
