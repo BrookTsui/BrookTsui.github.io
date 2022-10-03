@@ -9,7 +9,7 @@ main: #todo
   - title: "Research"
     url: /research/
 
-  - title: "Archive"      
+  - title: "Note"      
     url: /archive/
 
   - title: "Miscellane"
