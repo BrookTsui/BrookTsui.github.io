@@ -57,7 +57,7 @@ The paper is in writing, and we hope to publish it at the end of the year.
 
 ## 3. Axion-like Massive Scalars from Hawking Emission of Primordial Black Holes
 - Location: University of Notre Dame, USA
-- Mentor: Yushin Tsai
+- Mentor: Yuhsin Tsai
 - Date: July 2022 - Now
 
 This is curcuitous story. 
