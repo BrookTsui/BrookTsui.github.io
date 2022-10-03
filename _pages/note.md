@@ -14,7 +14,7 @@ This is my archive where one can find all my notes and haphazard writings.
 
 This is the PDF version (Chinese) of my report at the Physics Hall about black hole thermodynamics and negative temperature. A brief introduction to the topic covering the basic BH thermodynamics, the derivation of Hawking temperature, the discussion of negative temperature and exotic-BTZ black holes. 
 
-2. String Theory and CFT
+2. [String Theory and CFT](../files/stringtheory.pdf)
 
 The string part covers mainly the front half of David Tong's lecture, and the CFT part comes from several sources. 
 
