@@ -72,18 +72,21 @@ It thus reasonable to think the interplay of quantum matters with the prosperous
 
 # Classical General Relativity & Cosmology
 
-Quote Einstein: "I "
+Quote Einstein: "I will not defend it(general relativity), you will believe it once you study it. "
 
-I found the classical GR, especially the very foucs on the Einstein equation as well as the differential geometry of spacetime are fanscinating. 
+What is your feeling when you know that the actual inertia guy is who freely falls instead of you standing readily on the earth? For me, a bolt of eletrons racing up my spine. There are some beautiful structures within the classical GR, like marbles. HEP recently largely concentrates on the quantum gravity, and the unaviodable singularities of GR become a stunning black blot. But other than this, I believe GR is intrinsically elegant.  
+
+My interest on it can be divided into two classes, the Einstein equation and the geometry of spacetime. 
 
 By the Einstein equation, I mean the vacuum energy $\Lambda$, or dark energy, the inflation of universe, and dark matter.
 
 By the geometry aspect, I mean a kind of 'old school' physics which focuses on the spacetime structure and various quantities in curved spacetime, like Penrose diagram, ADM mass, and a recent salient fruit that S. T. Yau and collaborators has proved the suppertranslation-invariant definition of angular momentum in the curved spacetime, which was a long-nagging question in GR. The new result will not only pave the way for further study of GR, but also benefit the gravitational wave detection.
 
-We are not good intuitive thinker of 4-D (or higher) spacetime, there thus will be some counter-intuitive outcomes like negative temperature appearing in the causal diamond, and 
+We are not good intuitive thinkers of 4D (or higher) spacetime, there thus will be some counter-intuitive outcomes like negative temperature appearing in the causal diamond, and 
 which are usually best 
 
 BTW, highly recommend the book of S. Weinberg and the updating note of Blau. They are the best I ever seen. The first tells me what is the physics of GR, and the last tells everything about GR. 
+
 ![tupian](catgr.jpg)
 
 
