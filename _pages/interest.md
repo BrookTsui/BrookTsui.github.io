@@ -28,6 +28,31 @@ Besides, the potential deviation of W-boson mass from SM also implies the incomp
 
 From both theoretical and experimental aspects, neutrino physics is a subject not to be missed. Moreover, I secretly believe it is probably one of the rare subjects where **theories and experiments parade abreast** as of now.
 
+# Dark Physics
+
+*Quote Einstein: "I will not defend it (general relativity), and you will believe it once you study it. "*
+
+What is your feeling when you know that the actual inertia guy is who freely falls instead of you standing readily on the earth? For me, a bolt of electrons raced up my spine. There are some beautiful structures within the classical GR, like marbles. HEP recently largely concentrates on quantum gravity, and the unavoidable singularities of GR become a stunning black blot. But other than this, I believe GR is intrinsically elegant.  
+
+Except the beauty, it is also indispensable in the study of particle physics. That the discrepancies from the regular SM can be revealed by GR should not be mysterious since only by GR one can see the large-scale quantum world, whence arise: 
+
+- **Dark Matter**, which was proposed as a potential candiate causing the [difference of observed mass distribution of galactic clusters](https://en.wikipedia.org/wiki/Abell_1689) to the theoretical result. By approximation, it accounts 85% of the total mass. The huge amount of invisible matters implies a rather fascinating as well as ineffable world. We have, so far, considered many possible dark matters, including dark photons, axions, and PBHs, with a broad energy scale. 
+
+
+- **Dark Energy**. Also the extremely small [cosmological constant $\Lambda$](../files/Solacc.pdf) which is responsible for the observed expansion of the universe cannot be explained by any natural fine-tuning mechanisms of QFT. To account for it, we need to go beyond the current picture of physics, at least QFT. 
+
+Both of them are answers awaiting questions. 
+
+Besides, in the classical GR, the **geometry of spacetime** is an active field, a kind of old school physics that focuses on the spacetime structure and various quantities in curved spacetime, like the Penrose diagram and ADM mass. 
+
+The recent salient fruit that [S. T. Yau and collaborators](../files/yau22.pdf) have proved the supertranslation-invariant definition of angular momentum in the curved spacetime, which was a long-nagging question in GR. The result will not only pave the way for further study of GR but also benefit gravitational wave detection since the emissions are usually produced by rotating emergence. 
+
+We are not good intuitive thinkers of 4D (or higher) spacetime, there thus will be some counter-intuitive outcomes like the [negative temperature](../files/jacobson-T.pdf) appearing in the causal diamond, which is usually the best test for our understanding of the universe. 
+
+BTW, highly recommend the book of [S. Weinberg](https://www.amazon.com/Gravitation-Cosmology-Principles-Applications-Relativity/dp/0471925675/ref=sr_1_4?keywords=weinberg&qid=1664884399&qu=eyJxc2MiOiI1LjIwIiwicXNhIjoiNC42NCIsInFzcCI6IjQuMzUifQ%3D%3D&sr=8-4) and the updating note of [M. Blau](http://www.blau.itp.unibe.ch/GRLecturenotes.html). They are the best I ever seen. The first tells me what is the physics of GR, and the last tells everything about GR. 
+
+![tupian](catgr.jpg)
+
 # Quantum Field Thoery
 As A. Zee said, QFT is not only a huge branch of physics but also a powerful tool and a universal perspective for almost everthing. By 
 
@@ -73,29 +98,5 @@ It thus reasonable to think the interplay of quantum matters with the prosperous
 
 For this field, I do not have a great ambition, and all I want is to savor its fanscinating progress, and then, if possible, bridge it with and injecting inspring elements into HEP. If lucky enough, vice versa. 
 
-# Cosmology
 
-*Quote Einstein: "I will not defend it (general relativity), and you will believe it once you study it. "*
-
-What is your feeling when you know that the actual inertia guy is who freely falls instead of you standing readily on the earth? For me, a bolt of electrons raced up my spine. There are some beautiful structures within the classical GR, like marbles. HEP recently largely concentrates on quantum gravity, and the unavoidable singularities of GR become a stunning black blot. But other than this, I believe GR is intrinsically elegant.  
-
-Except the beauty, it is also indispensable in the study of particle physics. That the discrepancies from the regular SM can be revealed by GR should not be mysterious since only by GR one can see the large-scale quantum world, whence dark matter and dark energy arise. 
-
-It is thus a powerful way leading us to transcend SM. My interest in it can be divided into two classes: 
-
-- **Dark Matter**. The very first firm ecidence is supposed by the exotic behavior of galaxies. 
-Also, axions and dark photons are 
-
-
-- **Dark Energy**. Also the extremely small [cosmological constant $\Lambda$](../files/Solacc.pdf) which is responsible for the observed expansion of the universe cannot be explained by any natural fine-tuning mechanisms of QFT. To account for it, we need to go beyond the current picture of physics, at least QFT. 
-
-Besides, in the classical GR, the **geometry of spacetime** is a active field, a kind of old school physics that focuses on the spacetime structure and various quantities in curved spacetime, like the Penrose diagram and ADM mass. 
-
-The recent salient fruit that [S. T. Yau and collaborators](../files/yau22.pdf) have proved the supertranslation-invariant definition of angular momentum in the curved spacetime, which was a long-nagging question in GR. The result will not only pave the way for further study of GR but also benefit gravitational wave detection since the emissions are usually produced by rotating emergence. 
-
-We are not good intuitive thinkers of 4D (or higher) spacetime, there thus will be some counter-intuitive outcomes like the [negative temperature](../files/jacobson-T.pdf) appearing in the causal diamond, which is usually the best test for our understanding of the universe. 
-
-BTW, highly recommend the book of [S. Weinberg](https://www.amazon.com/Gravitation-Cosmology-Principles-Applications-Relativity/dp/0471925675/ref=sr_1_4?keywords=weinberg&qid=1664884399&qu=eyJxc2MiOiI1LjIwIiwicXNhIjoiNC42NCIsInFzcCI6IjQuMzUifQ%3D%3D&sr=8-4) and the updating note of [M. Blau](http://www.blau.itp.unibe.ch/GRLecturenotes.html). They are the best I ever seen. The first tells me what is the physics of GR, and the last tells everything about GR. 
-
-![tupian](catgr.jpg)
 

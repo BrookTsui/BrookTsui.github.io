@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Note"
+title: "Archive"
 permalink: /note/
 author_profile: true
 ---
@@ -53,6 +53,6 @@ This is the report I made to the professors from Turkey on the ideas of my theor
 
 This is a short note about my idea for GUP. When I was scanning ArXiv, some related articles attracted my attention, and after researching I found the way people treat it is not satisfying. Therefore I tried to give my solution. 
 
-The result, however, still has some confusing traits like negative entropy, which also appears in several GUP models, and I thus have not published it since I failed to convence myself. 
+The result, however, still has some confusing traits like negative entropy, which also appears in several GUP models, and I have been trying to understand them. 
 
 In hindsight, the mentor's argument about the existence of negative temperature behavior in BH spacetime possibly originates from the GUP. 
