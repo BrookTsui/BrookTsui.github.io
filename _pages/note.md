@@ -18,9 +18,8 @@ This is the PDF version of my report at the Physics Hall about black hole thermo
 
 The string part covers mainly the front half of David Tong's lecture, and the CFT part comes from several sources. 
 
-3. T-Duality [En]
+3. [T-Duality](../files/Tduality.pdf) [En]
 
-En
 The final report of the class about string theory. 
 
 4. Quantum Field Theory [En]
