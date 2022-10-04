@@ -7,7 +7,7 @@ author_profile: true
 
 ## 1. Black Hole Thermodynamics
 - Institution: Sichuan University, China
-- Mentor: Haitang Yang, Peng Wang
+- Mentor: Haitang Yang
 - Date: Dec. 2020 - Jun. 2021
 
 Our original argument is that if one considers the horizon radius as the maximum position uncertainty of the singularity, there must be a minimum energy uncertainty $\Delta E$. However, the radius of the horizon is generally proportional to the energy. One thus may think there is a limit of the black hole energy as $E+\Delta E$. The upper bound of energy usually implies the possibility of negative temperature, hence the project. 
