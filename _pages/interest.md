@@ -75,8 +75,7 @@ The pioneering work done by Bekenstein and Hawking has opened the vista to a bra
 
 The ineffable area entropy implies the holography principle, the great revolution of our understanding of spacetime and information. This field has proved fruitful. 
 
-The complexity proposed by L. Susskind 
-and the recent progress made by A. Wall about the 
+Every quantum gravity theory should pass the exam from black holes. This is a not-to-miss track toward the great phyiscs. 
 
 # Quantum Matter
 The interest for this field originated from lectures about the [Black Hole/Superconductor correspondence](https://www.youtube.com/watch?v=L5WY9xGPjS4&t=5054s) given by S. Hartnoll at Stanford University. Two points he mentioned impressed me: superconductor is as same as the U(1) symmetry-breaking mechine for photon; black holes, from AdS/CFT aspect, are nothing but quantum objects. 
