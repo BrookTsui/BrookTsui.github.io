@@ -24,7 +24,7 @@ Currently neutrino physics has vast experimental progress but still cannot addre
 
 These question can be answered by the low-energy experiments, such as $0\nu \beta \beta$ decay, neutrino long and short baseline, neutron-antineutron oscillation, *etc*. The relatively lower costs means it would be one of the important directions in the future. 
 
-Besides, the potential deviation of W-boson mass from SM also implies the incompleteness of the electroweak theory. 
+Besides, the potential deviation of W-boson mass from SM also implies the incompleteness of the electroweak theory. It is different from dark matters or dark energy, which are not necessarily beyond SM.
 
 From both theoretical and experimental aspects, neutrino physics is a subject not to be missed. Moreover, I secretly believe it is probably one of the rare subjects where **theories and experiments parade abreast** as of now.
 
@@ -36,7 +36,9 @@ What is your feeling when you know that the actual inertia guy is who freely fal
 
 Except the beauty, it is also indispensable in the study of particle physics. That the discrepancies from the regular SM can be revealed by GR should not be mysterious since only by GR one can see the large-scale quantum world, whence arise: 
 
-- **Dark Matter**, which was proposed as a potential candiate causing the [difference of observed mass distribution of galactic clusters](https://en.wikipedia.org/wiki/Abell_1689) to the theoretical result. By approximation, it accounts 85% of the total mass. The huge amount of invisible matters implies a rather fascinating as well as ineffable world. We have, so far, considered many possible dark matters, including dark photons, axions, and PBHs, with a broad energy scale. 
+- **Dark Matter**, which was firstly proposed as a potential candiate causing the [difference of observed mass distribution of galactic clusters](https://en.wikipedia.org/wiki/Abell_1689) to the theoretical result. By approximation, it accounts 85% of the total mass. The huge amount of invisible matters implies a rather fascinating as well as ineffable world. We have, so far, considered many possible dark matters, including dark photons, axions, sterile neutrinos, and PBHs, with a broad energy scale. 
+
+For the dark side, we are but the 'dark side' and the minority, which poorly consists of 15% of the total mass. How many would the coincidence of our world hold in a much large realm? How many things are unimaginable awaiting us to unveil? 
 
 
 - **Dark Energy**. Also the extremely small [cosmological constant $\Lambda$](../files/Solacc.pdf) which is responsible for the observed expansion of the universe cannot be explained by any natural fine-tuning mechanisms of QFT. To account for it, we need to go beyond the current picture of physics, at least QFT. 
@@ -54,18 +56,24 @@ BTW, highly recommend the book of [S. Weinberg](https://www.amazon.com/Gravitati
 ![tupian](catgr.jpg)
 
 # Quantum Field Thoery
-As A. Zee said, QFT is not only a huge branch of physics but also a powerful tool and a universal perspective for almost everthing. By 
 
-It is a mature subject that one can use a systematic way to operate 
+The above two are both the physics somehow transcending the standard model. However, beyond SM does not mean beyond the quantum field theory, which, being a frame, is valid across a vast range. Essentially, in the discussing of dark matters and neutrinos we have been using QFT throughout.  
 
-There are many unknown and unsolved problems in QFT, which make it 
+As an effective theory, QFT has a rich structure. It is not only a huge branch of physics but also a powerful tool and a universal perspective for almost everthing. 
 
-This
-Soliton, instanton, AQFT
+There are many unknown and unsolved problems in QFT, like [the Yang–Mills existence and mass gap problem](https://en.wikipedia.org/wiki/Yang%E2%80%93Mills_existence_and_mass_gap), axiomizing the QFT by algebra, hierarchy problem, quantum entanglement nature. 
 
-Quote witten, we have yet to understand the quantum field theory. 
+My interest is on the AQFT as well as the quantum entanglement. 
 
-I have read an answer by Xiaogang Wen 
+to say nothing of the long-range entanglement 
+
+The Reeh-Schlieder theorem, we can 
+
+I have read an answer by Xiaogang Wen about the necessity of the 'gauge,' which may also result from the long-range entanglement property of QFT. 
+
+To deepen our understanding of QFT. We can think 
+
+
 
 # Black Hole Thermodynamics & Gravity/Gauge Duality 
 The pioneering work done by Bekenstein and Hawking has opened the vista to a brand new physical world, where quantum marries gravity. 
