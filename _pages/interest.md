@@ -63,16 +63,11 @@ As an effective theory, QFT has a rich structure. It is not only a huge branch o
 
 There are many unknown and unsolved problems in QFT, like [the Yang–Mills existence and mass gap problem](https://en.wikipedia.org/wiki/Yang%E2%80%93Mills_existence_and_mass_gap), axiomizing the QFT by algebra, hierarchy problem, quantum entanglement nature. 
 
-My interest is on the AQFT as well as the quantum entanglement. 
+My interest is on the AQFT as well as the quantum entanglement. Somehow, [they are correlated](../files/wittenqft.pdf), given the fact revealed by, for example, the Reeh-Schlieder theorem that the entanglement of QFT is intrinsically encoded in operators and the algebra. 
 
-to say nothing of the long-range entanglement 
+Another possible support is [an answer](https://www.zhihu.com/question/455033981/answer/2638229491) written Xiaogang Wen about the necessity of the 'gauge' that it may result from the long-range entanglement property of QFT.  
 
-The Reeh-Schlieder theorem, we can 
-
-I have read an answer by Xiaogang Wen about the necessity of the 'gauge,' which may also result from the long-range entanglement property of QFT. 
-
-To deepen our understanding of QFT. We can think 
-
+To deepen our understanding of world, we should hone on our view of QFT. 
 
 
 # Black Hole Thermodynamics & Gravity/Gauge Duality 
@@ -99,8 +94,6 @@ In the opposite direction, CMT to AdS also provides us with useful models to stu
 I have benefited a lot from likening the Spontaneous Symmetry Breaking (SSB) of electroweak theory to the Ising model inspired by the discussion of [Xiaogang Wen on PhysicsStackExchange.](https://physics.stackexchange.com/questions/29311/what-is-spontaneous-symmetry-breaking-in-quantum-systems)
 
 Also, quantum matters are potential tools of [quantum simulation](../files/qshep.pdf) for high-energy physics. 
-
-- Topological order: 
 
 It thus reasonable to think the interplay of quantum matters with the prosperous AdS/CMT will play an important role in future physics, and some ideas of CMT, like topological order, *etc*, would benefit HEP in the same way as the SSB.  
 
