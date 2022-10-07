@@ -36,14 +36,68 @@ What is your feeling when you know that the actual inertia guy is who freely fal
 
 Except the beauty, it is also indispensable in the study of particle physics. That the discrepancies from the regular SM can be revealed by GR should not be mysterious since only by GR one can see the large-scale quantum world, whence arise: 
 
-- **Dark Matter**, which was firstly proposed as a potential candiate causing the [difference of observed mass distribution of galactic clusters](https://en.wikipedia.org/wiki/Abell_1689) to the theoretical result. By approximation, it accounts 85% of the total mass. The huge amount of invisible matters implies a rather fascinating as well as ineffable world. We have, so far, considered many possible dark matters, including dark photons, axions, sterile neutrinos, and PBHs, with a broad energy scale. 
+- **Dark Matter**, 
+
+which was firstly proposed as a potential candiate causing the [difference of observed mass distribution of galactic clusters](https://en.wikipedia.org/wiki/Abell_1689) to the theoretical result. By approximation, it accounts 85% of the total mass. The huge amount of invisible matters implies a rather fascinating as well as ineffable world. We have, so far, considered many possible dark matters, including dark photons, axions, sterile neutrinos, and PBHs, with a broad energy scale. 
 
 For the dark side, we are but the 'dark side' and the minority, which poorly consists of 15% of the total mass. How many would the coincidence of our world hold in a much large realm? How many things are unimaginable awaiting us to unveil? 
 
+We might need some new fundamental rules for studying the dark section, as the symmetry for our world. 
+
+Would the dark world rain? Are there planets and people in the dark world? Are they receiving the signals from us and trying to study our world which is also dark to them? For them consisting 85% of the total mass, is the detection or awareness to us harder for them? 
+
+So far, I have studied the axions, dark photons and PBHs
+
+We are on the verge of a contine land, forcasting the view to the new world. 
+
+Dark world is not the world huddling in a corner of the univese, but scattering miscallanously around us, like the ghost. 
+The only connection potentially leave to us is the possible portal.  
+
+Since they share a common envirement with us, there seems to exist no reason for them not to obeying, effectively, QFT. 
 
 - **Dark Energy**. Also the extremely small [cosmological constant $\Lambda$](../files/Solacc.pdf) which is responsible for the observed expansion of the universe cannot be explained by any natural fine-tuning mechanisms of QFT. To account for it, we need to go beyond the current picture of physics, at least QFT. 
 
 Both of them are answers awaiting questions. 
+
+
+
+
+# Quantum Entanglement
+
+The Quantum Entanglement was initiatd by [the EPR paradox](https://en.wikipedia.org/wiki/EPR_paradox), developed ably by many others, and now has incresingly become an important branch that seems able to unify many disciplines.  
+
+My interest is in its correlation with the following: 
+
+- AdS/CFT
+
+There are many fascinating fruits of AdS/CFT, I however here wish to emphisize one the most saliant (in my opinion), the RT-formula, which stats that the entanglement entropy of the boundary system is as same as the area entropy of the corresponding minimum-area volume. An implication would be that there will be no volume when there is no entanglement on the boundary. Somehow, gravity emerges from quantum. 
+
+The Hawking radiation itself has many clues to the entanglement, given the recent progress made by A.Wall and N. Engelhardtarea. 
+
+I think AdS/CFT endows us an unique perspective toward the role of entanglement in the fundamental physics. 
+
+- QFT
+
+There is [an answer](https://www.zhihu.com/question/455033981/answer/2638229491) written Xiaogang Wen about the necessity of the 'gauge.' And the quick takeaway: it may result from the long-range entanglement property of QFT. 
+
+The entanglement is not only an fancy story which can be discussed under QFT, but also enacts an indispensible role in its structure, like the ineffable gemstone, [the Reeh-Schlieder theorem](../files/wittenqft.pdf) that one can in principle create any states far away by local states, revealing the intrinsic entanglement component of QFT. 
+
+The better understanding of the entanglement would benefit the axiomization of QFT, including AQFT, and the physics of beyond SM since it does not necessarily mean beyond the quantum field theory, which, being a frame, applies throughout the disussion of dark matters and neutrinos * ,etc*.
+
+- Topological order 
+
+ 
+
+The 022 Nobel Prize of physics was awarded for quantum information. The goldden age for QI is coming, itself not only 
+
+# Black Hole
+The pioneering work done by Bekenstein and Hawking has opened the vista to a brand new physical world, where quantum marries gravity. 
+
+The ineffable area entropy implies the holography principle, the great revolution of our understanding of spacetime and information. This field has proved fruitful. 
+
+Every quantum gravity theory should pass the exam from black holes. This is a not-to-miss track toward the great phyiscs. 
+
+To better understand the BHs, we should also understand the GR, or the geometery of spacetime better. 
 
 Besides, in the classical GR, the **geometry of spacetime** is an active field, a kind of old school physics that focuses on the spacetime structure and various quantities in curved spacetime, like the Penrose diagram and ADM mass. 
 
@@ -51,31 +105,10 @@ The recent salient fruit that [S. T. Yau and collaborators](../files/yau22.pdf) 
 
 We are not good intuitive thinkers of 4D (or higher) spacetime, there thus will be some counter-intuitive outcomes like the [negative temperature](../files/jacobson-T.pdf) appearing in the causal diamond, which is usually the best test for our understanding of the universe. 
 
+
 BTW, highly recommend the book of [S. Weinberg](https://www.amazon.com/Gravitation-Cosmology-Principles-Applications-Relativity/dp/0471925675/ref=sr_1_4?keywords=weinberg&qid=1664884399&qu=eyJxc2MiOiI1LjIwIiwicXNhIjoiNC42NCIsInFzcCI6IjQuMzUifQ%3D%3D&sr=8-4) and the updating note of [M. Blau](http://www.blau.itp.unibe.ch/GRLecturenotes.html). They are the best I ever seen. The first tells me what is the physics of GR, and the last tells everything about GR. 
 
 ![tupian](catgr.jpg)
-
-# Quantum Field Thoery
-
-The above two are both the physics somehow transcending the standard model. However, beyond SM does not mean beyond the quantum field theory, which, being a frame, is valid across a vast range. Essentially, in the discussing of dark matters and neutrinos we have been using QFT throughout.  
-
-As an effective theory, QFT has a rich structure. It is not only a huge branch of physics but also a powerful tool and a universal perspective for almost everthing. 
-
-There are many unknown and unsolved problems in QFT, like [the Yang–Mills existence and mass gap problem](https://en.wikipedia.org/wiki/Yang%E2%80%93Mills_existence_and_mass_gap), axiomizing the QFT by algebra, hierarchy problem, quantum entanglement nature. 
-
-My interest is on the AQFT as well as the quantum entanglement. Somehow, [they are correlated](../files/wittenqft.pdf), given the fact revealed by, for example, the Reeh-Schlieder theorem that the entanglement of QFT is intrinsically encoded in operators and the algebra. 
-
-Another possible support is [an answer](https://www.zhihu.com/question/455033981/answer/2638229491) written Xiaogang Wen about the necessity of the 'gauge' that it may result from the long-range entanglement property of QFT.  
-
-To deepen our understanding of world, we should hone on our view of QFT. 
-
-
-# Black Hole Thermodynamics & Gravity/Gauge Duality 
-The pioneering work done by Bekenstein and Hawking has opened the vista to a brand new physical world, where quantum marries gravity. 
-
-The ineffable area entropy implies the holography principle, the great revolution of our understanding of spacetime and information. This field has proved fruitful. 
-
-Every quantum gravity theory should pass the exam from black holes. This is a not-to-miss track toward the great phyiscs. 
 
 # Quantum Matter
 The interest for this field originated from lectures about the [Black Hole/Superconductor correspondence](https://www.youtube.com/watch?v=L5WY9xGPjS4&t=5054s) given by S. Hartnoll at Stanford University. Two points he mentioned impressed me: superconductor is as same as the U(1) symmetry-breaking mechine for photon; black holes, from AdS/CFT aspect, are nothing but quantum objects. 
