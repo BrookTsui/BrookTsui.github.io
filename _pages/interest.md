@@ -32,11 +32,13 @@ From both theoretical and experimental aspects, neutrino physics is a subject no
 
 Except for the beauty, GR is also indispensable in the study of particle physics. That the discrepancies from the SM can be revealed by GR should not be mysterious since only by GR one can see the large-scale quantum world, whence arises the dark matter. 
 
+Actually, the large scale structure of the universe comes from the dark matter otherwise the normal matters are too light to form the significant and complex clusters
+
 It was firstly supported by the [difference in the observed mass distribution of galactic clusters](https://en.wikipedia.org/wiki/Abell_1689) to the theoretical result. By approximation, it accounts for 85% of the total mass. A huge world is lurking.  
 
 We have, so far, considered many possible dark matters, including dark photons, axions, sterile neutrinos, and PBHs, with a broad energy scale. They do not interact via SM gauge bosons but via some extra ones, leaving the tiny possibility of detection to possible portals. 
 
-For the dark side, we are the dark side and the minority, which poorly consists of 15% of the total mass. How many would the coincidence of our world hold in a much large realm? Would the dark world rain? Are there planets and people in the dark world? Are they receiving the signals from us and trying to study our world which is also dark to them? For them consisting 85% of the total mass, is the detection or awareness to us harder for them? 
+For the dark side, we are the dark side and the minority, which poorly consists of 15% of the total mass. How many would the coincidence of our world hold in a much large realm? Would the dark world rain? Are there planets and people in the dark world? Are they receiving the signals from us and trying to study our world which is also dark to them? For them consisting 85% of the total mass, is the detection or awareness to us harder for them? I ponder them in sonder. 
 
 The dark section is not the world huddling in a corner of the universe but scattering miscellaneously around us. Thanks to the common environment shared, we can suppose they obey the same fundamental rules like symmetry, which leads us to go beyond the SM but not necessarily the QFT, GR, and whatnot.    
 
@@ -54,6 +56,7 @@ There are many fascinating fruits of AdS/CFT, I however here wish to emphasize o
 
 The Hawking radiation itself has many clues to the entanglement, given the recent progress made by A.Wall and N. Engelhardtarea. 
 
+Bell inequility and CHSH inequility can apply to BHs, giving the most precise description of firewall 
 I think AdS/CFT endows us with a unique perspective on the role of entanglement in fundamental physics. 
 
 - QFT

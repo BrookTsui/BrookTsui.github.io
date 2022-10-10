@@ -16,17 +16,21 @@ After studying BH physics and quantum mechanics, I realized it was wrong eventua
 
 But we still tried to probe the possibility of negative temperature. During this period, I studied the energy-bounded S. H. O. as the prototype for which the entropy equals the number of ways of diving the energy with an upper limit for each oscillator. I have searched many ways of restricted integral partition and included the one fitting our needs best in the report. 
 
-Also, since the temperature is defined as $\frac{\partial E}{\partial S}$, it is straightforward to posit a process with $\Delta S>0$ but $\Delta E<0$ or vice versa. We did consider the negative-mass objects or white holes, but I soon gave up since they are both radical. In the later research, I have found [M. Park's paper](../files/parkexoticbtz.pdf) about the negative temperature appearing in exotic-BTZ black holes, of which the discussion I remained skeptical. Therefore we included it in our report but did not follow his work.  
+Also, since the temperature is defined as $\frac{\partial E}{\partial S}$, it is straightforward to posit a process with $\Delta S>0$ but $\Delta E<0$ or vice versa. We did consider the negative-mass objects or white holes, but I soon gave up since they seems to go far. 
 
-Meanwhile, I learned the phase transition and the chaotic behavior of BHs for interest and have derived the Lyapunov exponent for the RN-AdS BH. 
+In the later research, I have found [M. Park's paper](../files/parkexoticbtz.pdf) about the negative temperature appearing in exotic-BTZ black holes, of which some arguments however seemed skeptical. Therefore we included it in our report but did not follow his work.  
 
-Nonetheless, the pandemic began to rage. Quarantined at home without enough communication with the mentor, seeing the program as grim, I eventually decided to quit it and packaged all the work I had done in a [report](../files/BH-T.pdf).
+Meanwhile, I began to consider to construct a quantum system with negative temperature, with which I am comparetively familiar, on the boundary, and map it to a gravitional system by AdS/CFT. 
+
+At the moment I was excited about the possibility, however, the pandemic began to rage. Quarantined at home without enough communication with the mentor, seeing the program as grim, and there was a terrible thing happened to inflict upon my mom, I eventually decided to quit it and packaged all the work I had done in a [report](../files/BH-T.pdf). 
+
+In the home, due to interest I learned the phase transition and the chaotic behavior of BHs and have derived the Lyapunov exponent for the RN-AdS BH. 
 
 When logging this period, I came to the [paper](../files/jacobson-T.pdf) written by T. Jacobson *et al*  on the negative temperature, in which they considered the BHs in the casual diamonds with the appearance of an upper energy bound. 
 
 In hindsight, I have learned a lot from this subject, which has led me into the palace of theoretical physics. I appreciate all of it in terms of this. However, this has also exposed my problems then, like being afraid to confer with the mentor when I found he was wrong, lacking the ability to information retrieving that I should find the Jacobson's paper, and giving up easily and attributing all blame to the pandemic. The narrow knowledge of general relativity that only does the Schwarzschild BH come to me when think BHs also made me oblivious of a broad picture, including the causal structure, *etc.*
 
-I hope this not successful starting could be my toll ticking once I am on the verge of relapsing. 
+Hope this unsuccessful starting could be my toll ticking once I am on the verge of relapsing. 
 
 ---
 
@@ -55,7 +59,7 @@ The paper is in writing, and we hope to publish it at the end of the year.
     
 ---
 
-## 3. Axion-like Massive Scalars from Hawking Emission of Primordial Black Holes
+## 3. Bound on Primordial Black Holes Being DM
 - Location: University of Notre Dame, USA
 - Mentor: Yuhsin Tsai
 - Date: July 2022 - Now
@@ -68,31 +72,36 @@ Initially, I just tried to follow [his work about the unitary bound](../files/ub
 
 The question-and-answer exchange lasted for several months, and the collaboration began in July. 
 
-It is about the massive scalars produced in primordial black holes, so we should first derive the Hawking emission, which I have learned a lot in the first research but overlooked the detailed calculation of the rate. (I usually feel confused about the Page curve, wondering how to evaluate the vaporating time.)
+The energy of photons coming from the decay of scalars, like axions, emitted from PBHs lies in the scope of detection of current experiments, and in this way we hope to bound the aboundance of PBHs, hence the bound on the possibility of the being DM. The crux is the calculation of the massive scalars spectra of PBHs for the whole energy-scale, which is oblivious in the traditional context of particle physics. There are some analytical works for the low-energy limit; the conventional code, [BlackHawk](https://blackhawk.hepforge.org/), for producing Hawking radiation is designated for massless particles; and the rare complete works showing the complete spcetra are scattered miscallaneously in several areas on different aspects with various notions. 
 
-I first read two papers by [Unruh](../files/Unruh.pdf) and [Page](../files/Page.pdf) for basic schemes and found them correlated somehow. Their analytical derivation is both on the low-energy scale. Although Unruh discussed the massive scalars in Schwarzschild spacetime, but he did not plot the whole diagram covering the region of interest. 
+We hope to not only to set the bound on PBHs but also make a systematic and comprehensive work integrating these, offering the particle physics shpere a handy reference. 
 
-After research, we found a very recent [paper](../files/carolina.pdf) talking about the complete spectra of massive scalars in RN BHs, but [those](../files/Park.pdf) related to the Schwarzschild are rarely fetched, which might have been done by physicists for various motivations, but it seems to lack comprehensive work introducing it to particle physicists since the widely used program for calculating the black hole emission rate, [BlackHawk](https://blackhawk.hepforge.org/), has not included the massive particles. 
+First, the Hawking emission, which I have learned a lot in the first research but overlooked the detailed calculation of the rate. (I usually feel confused about the Page curve, wondering how to evaluate the vaporating time.)
 
-So we thought this would be the first work worth doing that to introduce sysmetically and comprehensively the massive emission rate to particle physicists, especially who interested in dark matters, axions, *etc*. 
+I first read two papers by [Unruh](../files/Unruh.pdf) and [Page](../files/Page.pdf) for a basic picture. Their analytical derivation is both on the low-energy scale. Although Unruh discussed the massive scalars in Schwarzschild spacetime, but he did not plot the whole diagram covering the region of interest. 
 
-After reading [Hawking's original paper](../files/Haw75.pdf), I understood the logic of the emission rate, which corrected my naive understanding that Hawking radiation originates merely from the coordinate transformation. Later on, I gave a [report](../files/hawkingppt.pdf) to Prof. Tsai and the postdoc Tao in the meeting. 
+After research, I found a [paper](../files/carolina.pdf) talking about the complete spectra of massive scalars in RN BHs, which then became our basis of studying. 
 
-By partial wave decomposition and equivalent-potential trick, I then began calculation by numerical methods. After detouring to the Numerov method and other regression simulations, the right behavior eventually appears by NDSolve built in MMA. 
- 
+To develop a through understanding of the subject, I have read [Hawking's original paper](../files/Haw75.pdf) and [Guth's famous note](../files/Guth76.pdf). They corrected my naive understanding about Hawking radiation that it originates merely from the coordinate transformation and Bogoliubov transformation. 
+
+All I have learned was included in the [report](../files/hawkingppt.pdf) I gave to Prof. Tsai and the postdoc Tao in the meeting. 
+
+When the prepartion was done, I began the calculation by numerical methods. The basic method is the partial wave decomposition and equivalent-potential trick. This has been a challanging and interesting task since I am not proficient at MMA or other numerical tools. In the half month, I have read through a textbook about MMA. Eventually, by NDSolve with the help of the document, the circuitous road leads me to the right spectra.
+
 To be continued. 
 
 ---
 
-## 4. Neutrino Mass Problem and Beyond
+## 4. Dark Sector oscillation
 - Institution: Institute of Theoretical Physics, Chinese Academy of Sciences, China
 - Mentor: Jianghao Yu
 - Date: Aug. 2022 - Now
 
-But since I am a 
+As I said, the neutrino physics is a not-to-miss subject, where theories and experiments parade abreast. So I came to Prof. Yu. 
+
+I have learned the electroweak theory, the neutrino mass model, including the Seesaw mechanism, and neutrino oscillation processes, including the MSW effect and collective oscillation, from the pendulum aspect and Boltzmann equation aspect.
 
 
-\item {I have learned the electroweak theory, the neutrino mass model, including the Seesaw mechanism, and neutrino oscillation processes, including the MSW effect and collective oscillation, from the pendulum aspect and Boltzmann equation aspect.}
         \item {Studied the solar neutrino problem, the formation of neutron stars and the role neutrinos play in it.}
         \item {We then plan to study the unknown interactions of neutrinos.}
       \end{cvitems}
