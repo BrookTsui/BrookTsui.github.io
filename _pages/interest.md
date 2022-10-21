@@ -8,6 +8,9 @@ I have a broad interest across many fields, and enjoy the diversity and the sere
 
 Want to understand and possibly master the essence of important physics, and then devote myself into all fields I wonder why. 
 
+I'm an undergraduate student majoring in physics from China, enjoy both mathematics and physics for their beauty and power.
+
+The ongoing investigation of the ineffable world is exciting, which appeals to me to participate in this thrilling parade and to wish to contribute a verse. 
 
 # Neutrino Physics
 
@@ -29,6 +32,10 @@ Besides, the potential deviation of W-boson mass from SM also implies the incomp
 From both theoretical and experimental aspects, neutrino physics is a subject not to be missed. Moreover, I secretly believe it is probably one of the rare subjects where **theories and experiments parade abreast** as of now.
 
 # Dark Matter
+
+*"What is this flame in darkness whose sparks are the stars?"*
+
+I like this verse written by Tagore, and think it as the verse associated to dark matters, the unseen world flotting around us whose only emergence is via the possible portals. 
 
 Except for the beauty, GR is also indispensable in the study of particle physics. That the discrepancies from the SM can be revealed by GR should not be mysterious since only by GR one can see the large-scale quantum world, whence arises the dark matter. 
 
@@ -67,32 +74,6 @@ The entanglement is not only a fancy story that can be discussed under QFT but a
 
 A better understanding of the entanglement would benefit the axiomatization of QFT, including AQFT, and the physics of beyond SM since it does not necessarily mean beyond the quantum field theory, which, being a frame, applies throughout the discussion of dark matters and neutrinos *, etc*.
 
-The 2022 Nobel Prize in physics was awarded for quantum information. The golden age for QI is coming. To where the entanglement will lead us? 
-
-# Black Hole
-
-What is your feeling when you know that the actual inertia guy is who freely falls instead of you standing readily on the earth? For me, a bolt of electrons raced up my spine. There are some beautiful structures within the classical GR, like marbles. HEP recently largely concentrates on quantum gravity, and the unavoidable singularities of GR become a stunning black blot. But other than this, I believe GR is intrinsically elegant. 
-The pioneering work done by Bekenstein and Hawking has opened the vista to a brand new physical world, where quantum marries gravity. 
-
-The ineffable area entropy implies the holography principle, the great revolution of our understanding of spacetime and information. This field has proved fruitful. 
-
-Every quantum gravity theory should pass the exam from black holes. This is a not-to-miss track toward the great phyiscs. 
-
-To better understand the BHs, we should also understand the GR, or the geometery of spacetime better. 
-
-Besides, in the classical GR, the **geometry of spacetime** is an active field, a kind of old school physics that focuses on the spacetime structure and various quantities in curved spacetime, like the Penrose diagram and ADM mass. 
-
-The recent salient fruit that [S. T. Yau and collaborators](../files/yau22.pdf) have proved the supertranslation-invariant definition of angular momentum in the curved spacetime, which was a long-nagging question in GR. The result will not only pave the way for further study of GR but also benefit gravitational wave detection since the emissions are usually produced by rotating emergence. 
-
-We are not good intuitive thinkers of 4D (or higher) spacetime, there thus will be some counter-intuitive outcomes like the [negative temperature](../files/jacobson-T.pdf) appearing in the causal diamond, which is usually the best test for our understanding of the universe. 
-
-- **Dark Energy**. Also the extremely small [cosmological constant $\Lambda$](../files/Solacc.pdf) which is responsible for the observed expansion of the universe cannot be explained by any natural fine-tuning mechanisms of QFT. To account for it, we need to go beyond the current picture of physics, at least QFT. 
-
-BTW, highly recommend the book of [S. Weinberg](https://www.amazon.com/Gravitation-Cosmology-Principles-Applications-Relativity/dp/0471925675/ref=sr_1_4?keywords=weinberg&qid=1664884399&qu=eyJxc2MiOiI1LjIwIiwicXNhIjoiNC42NCIsInFzcCI6IjQuMzUifQ%3D%3D&sr=8-4) and the updating note of [M. Blau](http://www.blau.itp.unibe.ch/GRLecturenotes.html). They are the best I ever seen. The first tells me what is the physics of GR, and the last tells everything about GR. 
-
-![tupian](catgr.jpg)
-
-# Quantum Matter
 The interest for this field originated from lectures about the [Black Hole/Superconductor correspondence](https://www.youtube.com/watch?v=L5WY9xGPjS4&t=5054s) given by S. Hartnoll at Stanford University. Two points he mentioned impressed me: superconductor is as same as the U(1) symmetry-breaking mechine for photon; black holes, from AdS/CFT aspect, are nothing but quantum objects. 
 
 I so far have three main interests abouut quantum matters: 
@@ -112,6 +93,32 @@ Also, quantum matters are potential tools of [quantum simulation](../files/qshep
 It thus reasonable to think the interplay of quantum matters with the prosperous AdS/CMT will play an important role in future physics, and some ideas of CMT, like topological order, *etc*, would benefit HEP in the same way as the SSB.  
 
 For this field, I do not have a great ambition, and all I want is to savor its fanscinating progress, and then, if possible, bridge it with and injecting inspring elements into HEP. If lucky enough, vice versa. 
+
+
+The 2022 Nobel Prize in physics was awarded for quantum information. The golden age for QI is coming. To where the entanglement will lead us? 
+
+# Black Hole
+
+What is your feeling when you know that the actual inertia guy is who freely falls instead of you standing readily on the earth? For me, a bolt of electrons raced up my spine. There are some beautiful structures within the classical GR, like marbles. HEP recently largely concentrates on quantum gravity, and the unavoidable singularities of GR become a stunning black blot. But other than this, I believe GR is intrinsically elegant. 
+The pioneering work done by Bekenstein and Hawking has opened the vista to a brand new physical world, where quantum marries gravity. 
+
+The ineffable area entropy implies the holography principle, the great revolution of our understanding of spacetime and information. This field has proved fruitful. 
+
+Every quantum gravity theory should pass the exam from black holes. This is a not-to-miss track toward the great phyiscs. 
+
+To better understand the BHs, we should also understand the GR, or the geometery of spacetime better. 
+
+Besides, in the classical GR, the **geometry of spacetime** is an active field, a kind of old school physics that focuses on the spacetime structure and various quantities in curved spacetime, like the Penrose diagram and ADM mass. 
+
+The recent salient fruit that [S. T. Yau and collaborators](../files/yau22.pdf) have proved the supertranslation-invariant definition of angular momentum in the curved spacetime, which was a long-nagging question in GR. The result will not only pave the way for further study of GR but also benefit gravitational wave detection since the emissions are usually produced by rotating emergence. 
+
+We are not good intuitive thinkers of 4D (or higher) spacetime, there thus will be some counter-intuitive outcomes like the [negative temperature](../files/jacobson-T.pdf) appearing in the causal diamond, which is usually the best test for our understanding of the universe. 
+
+BTW, highly recommend the book of [S. Weinberg](https://www.amazon.com/Gravitation-Cosmology-Principles-Applications-Relativity/dp/0471925675/ref=sr_1_4?keywords=weinberg&qid=1664884399&qu=eyJxc2MiOiI1LjIwIiwicXNhIjoiNC42NCIsInFzcCI6IjQuMzUifQ%3D%3D&sr=8-4) and the updating note of [M. Blau](http://www.blau.itp.unibe.ch/GRLecturenotes.html). They are the best I ever seen. The first tells me what is the physics of GR, and the last tells everything about GR. 
+
+![tupian](catgr.jpg)
+
+
 
 
 

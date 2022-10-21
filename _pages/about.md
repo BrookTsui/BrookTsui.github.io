@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 My Chinese name is Horan Tsui or 崔浩然, but feel free to call me **Brook**, the English name I choose to remind me of being moderate. 
-I also lavish its pronunciation similar to 'book.'
+I also relish the pronunciation similar to 'book.'
 
 ## Here is my [CV](../files/Horan%20Tsui's%20CV.pdf)
 

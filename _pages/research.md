@@ -100,9 +100,3 @@ To be continued.
 As I said, the neutrino physics is a not-to-miss subject, where theories and experiments parade abreast. So I came to Prof. Yu. 
 
 I have learned the electroweak theory, the neutrino mass model, including the Seesaw mechanism, and neutrino oscillation processes, including the MSW effect and collective oscillation, from the pendulum aspect and Boltzmann equation aspect.
-
-
-        \item {Studied the solar neutrino problem, the formation of neutron stars and the role neutrinos play in it.}
-        \item {We then plan to study the unknown interactions of neutrinos.}
-      \end{cvitems}
-    }
