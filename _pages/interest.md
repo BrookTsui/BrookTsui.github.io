@@ -66,7 +66,9 @@ I like it because of the beauty of GR. What is your feeling when you know that t
 
 To better understand BHs, we should dig deep into the geometery of spacetime, whcich is an active field. Although some one consider it as a kind of old school physics. 
 
-The recent important work is that [S. T. Yau and collaborators](../files/yau22.pdf) have proved the supertranslation-invariant definition of angular momentum in the curved spacetime, which was a long-nagging question in GR. The result will not only pave the way for further study of GR but also benefit gravitational wave detection since the emissions are usually produced by rotating emergence. 
+Aside, recall the discovery of DM, the role of GR in searching the physics beyond SM is indispensable, given only by GR we can predict and detect the large-scale structure which has been missing in the study of the quantum world for a long time. In the multi-messenger time, a solid understanding of Gr must be more and more important.  
+
+For example, the recent notable work is that [S. T. Yau and collaborators](../files/yau22.pdf) have proved the supertranslation-invariant definition of angular momentum in the curved spacetime, which was a long-nagging question in GR. The result will not only pave the way for further study of GR but also benefit gravitational wave detection since the emissions are usually produced by rotating emergence. 
 
 We are not good intuitive thinkers of 4D (or higher) spacetime, there thus will be some counter-intuitive outcomes like the [negative temperature](../files/jacobson-T.pdf) appearing in the causal diamond. What a good test for our understanding of the universe. 
 
