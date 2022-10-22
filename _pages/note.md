@@ -47,6 +47,7 @@ This is the report I made to the professors from Turkey on the ideas of my theor
 3. [Exotic Transition](../files/exotic%20transition.pdf) [En]
 
 The continuation of the last report. I corrected my calculation, and proved some theorems, re-designed and elaborated on another experiment to test the model. 
+
 ---
 
 # Miscellanous Thoughts 
