@@ -11,11 +11,11 @@ I have a broad interest across many fields, and enjoy the diversity and the sere
 It shocked me when knowing mass eigenstates are not necessarily interactive eigenstates. This results the massive neutrino oscillation, which has been observed by the SuperK and SNO, providing the first firm evidence of beyond the standard model.
 
 Currently neutrino physics has vast experimental progress but still cannot address competely theoretical puzzles from the tiny but non-zero neutrino masses:
-1. What is the **origin of neutrino mass**? why is it so samll? 
+1. What is the origin of neutrino mass? why is it so samll? 
 
-2. Is it **Dirac or Majorana-type**? 
+2. Is it Dirac or Majorana-type? 
 
-3. Whether there is a **large CP violation** in the neutrino sector? 
+3. Whether there is a large CP violation in the neutrino sector? 
 4. Can neutrinos provide a successful baryogenesis mechanism, and how to test it? 
 5. ...
 
@@ -23,7 +23,7 @@ These question can be answered by the low-energy experiments, such as $0\nu \bet
 
 Besides, the potential deviation of W-boson mass from SM also implies the incompleteness of the electroweak theory. 
 
-From both theoretical and experimental aspects, neutrino physics is a subject not to be missed. Moreover, I secretly believe it is probably one of the rare subjects where **theories and experiments parade abreast** as of now.
+From both theoretical and experimental aspects, neutrino physics is a subject not to be missed. Moreover, I secretly believe it is probably one of the rare subjects where theories and experiments parade abreast as of now.
 
 # Dark Sector
 
@@ -45,11 +45,9 @@ Quantum entanglemtn was initiated by [the EPR paradox](https://en.wikipedia.org/
 
 Besides the brandishing Quantum Information or Quantum Computer, I would like to say another gem I savored for a long time, [the Reeh-Schlieder theorem](../files/wittenqft.pdf), which states one can in principle create any states at any place by some local operators. It reveals the intrinsic entanglement-associated nature of QFT, which can be related to the necessity of the gauge ([quote Xiaogang Wen](https://www.zhihu.com/question/455033981/answer/2638229491)).
 
-For a large picture, AdS/CFT is a not-to-miss subject, which originates from the area entropy of BHs and the holography principle. There are many fascinating fruits from it, one the most salients (in my opinion) is the [RT-formula](https://arxiv.org/abs/hep-th/0603001), which states that the entanglement entropy of the boundary system is as same as the area entropy of the corresponding minimum-area volume. An implication would be that there will be no volume when there is no entanglement on the boundary. 
+For a large picture, AdS/CFT is a not-to-miss subject, which originates from the area entropy of BHs and the holography principle. There are many fascinating fruits from it, one the most salients (in my opinion) is the [RT-formula](https://arxiv.org/abs/hep-th/0603001), which states that the entanglement entropy of the boundary system is as same as the area entropy of the corresponding minimum-area volume. An implication would be that there will be no volume when there is no entanglement on the boundary. Somehow, gravity emerges from quantum.
 
-Somehow, gravity emerges from quantum. 
-
-The Hawking radiation itself proffers many clues to the entanglement, given the recent progress made by [A. Wall and N. Engelhardtarea.](https://arxiv.org/abs/1408.3203) Bell inequility and CHSH inequility can apply to BHs, giving the most precise description of firewall. 
+The Hawking radiation itself proffers many clues to the entanglement, given the recent progress made by [A. Wall and N. Engelhardtarea](https://arxiv.org/abs/1408.3203).Bell inequility and CHSH inequility can apply to BHs, giving the most precise description of firewall. 
 
 Other then such thrilling unification, another important and same fruitful aspect is AdS/CMT, the term coined by CMT theorests for studying the quantum materials from holography. 
 
@@ -72,7 +70,7 @@ The recent important work is that [S. T. Yau and collaborators](../files/yau22.p
 
 We are not good intuitive thinkers of 4D (or higher) spacetime, there thus will be some counter-intuitive outcomes like the [negative temperature](../files/jacobson-T.pdf) appearing in the causal diamond. What a good test for our understanding of the universe. 
 
-*BTW, highly recommend the book of [S. Weinberg](https://www.amazon.com/Gravitation-Cosmology-Principles-Applications-Relativity/dp/0471925675/ref=sr_1_4?keywords=weinberg&qid=1664884399&qu=eyJxc2MiOiI1LjIwIiwicXNhIjoiNC42NCIsInFzcCI6IjQuMzUifQ%3D%3D&sr=8-4) and the updating note of [M. Blau](http://www.blau.itp.unibe.ch/GRLecturenotes.html). They are the best I ever seen. The first tells me what is the physics of GR, and the last tells everything about GR.*
+*BTW, highly recommend the book of [S. Weinberg](https://www.amazon.com/Gravitation-Cosmology-Principles-Applications-Relativity/dp/0471925675/ref=sr_1_4?keywords=weinberg&qid=1664884399&qu=eyJxc2MiOiI1LjIwIiwicXNhIjoiNC42NCIsInFzcCI6IjQuMzUifQ%3D%3D&sr=8-4) and the updating note of [M. Blau](http://www.blau.itp.unibe.ch/GRLecturenotes.html). They are the best I ever seen.*
 
 ![tupian](catgr.jpg)
 
