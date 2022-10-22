@@ -4,13 +4,7 @@ title: "Interest"
 permalink: /interest/
 author_profile: true
 ---
-I have a broad interest across many fields, and enjoy the diversity and the serendipitous coalescence. 
-
-Want to understand and possibly master the essence of important physics, and then devote myself into all fields I wonder why. 
-
-I'm an undergraduate student majoring in physics from China, enjoy both mathematics and physics for their beauty and power.
-
-The ongoing investigation of the ineffable world is exciting, which appeals to me to participate in this thrilling parade and to wish to contribute a verse. 
+I have a broad interest across many fields, and enjoy the diversity and the serendipitous coalescence. Want to understand and possibly master the essence of important physics, and then devote myself into all fields I wonder why. 
 
 # Neutrino Physics
 
@@ -95,17 +89,13 @@ The 2022 Nobel Prize in physics was awarded for quantum information. The golden 
 
 # Black Hole
 
-What is your feeling when you know that the actual inertia guy is who freely falls instead of you standing readily on the earth? For me, a bolt of electrons raced up my spine. There are some beautiful structures within the classical GR, like marbles. And among all marbles, the most saliant would be, personally, the prediction of BHs, a simple and elegant object marrying QM with GR.
+What is your feeling when you know that the actual inertia guy is who freely falls instead of you standing readily on the earth? For me, a bolt of electrons raced up my spine. There are some beautiful structures within the classical GR, like marbles. And among all marbles, the most saliant would be, personally, the prediction of BHs, the simple and elegant objects marrying QM with GR.
 
-The pioneering work done by Bekenstein and Hawking has opened the vista to a brand new physical world, where quantum marries gravity. 
-
-The ineffable area entropy implies the holography principle, the great revolution of our understanding of spacetime and information. This field has proved fruitful. 
+The pioneering work done by Bekenstein and Hawking has opened the vista to a brand new physical world, where quantum marries gravity. The ineffable area entropy implies the holography principle, the great revolution of our understanding of spacetime and information. This field has proved fruitful. 
 
 Every quantum gravity theory should pass the exam from black holes. This is a not-to-miss track toward the great phyiscs. 
 
-To better understand the BHs, we should also understand the GR, or the geometery of spacetime better. 
-
-Besides, in the classical GR, the **geometry of spacetime** is an active field, a kind of old school physics that focuses on the spacetime structure and various quantities in curved spacetime, like the Penrose diagram and ADM mass. 
+To better understand the BHs, we should also understand the GR, or the geometery of spacetime better, whcich is an active field, although some one consider it as a kind of old school physics. 
 
 The recent salient fruit that [S. T. Yau and collaborators](../files/yau22.pdf) have proved the supertranslation-invariant definition of angular momentum in the curved spacetime, which was a long-nagging question in GR. The result will not only pave the way for further study of GR but also benefit gravitational wave detection since the emissions are usually produced by rotating emergence. 
 
