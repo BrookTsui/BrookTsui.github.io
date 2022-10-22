@@ -12,10 +12,14 @@ author_profile: true
 
 <details>
   <summary> Click me </summary>
+
 Our original argument is that if one considers the horizon radius $r$ as the position uncertainty of the singularity, there must be an energy uncertainty $\Delta E\sim \frac{1}{r}$, hence $E \Delta E\sim 1$ given $E\sim r$. One thus may consider the BH energy spectra as a band rather than a line. The appearance of the upper bound usually implies the possibility of negative temperature, hence the project. 
 
 After studying BH physics and quantum mechanics, I realized it was wrong eventually. The point is that $r$ is actually the maximum position uncertainty, and then $\Delta E$ is the minimum uncertainty. The energy spectra are exactly the complement of the so-called band. No upper bound. 
+</details>
 
+<details>
+  <summary> Click me </summary>
 But still, I decided to continue the research because I found it a fascinating thermodynamical concept. We generally believe that $\frac{\partial E}{\partial S}>0$ is true for BHs, but out of the pure formal symmetry, there is no reason to not discuss the opposite. 
 
 ---
