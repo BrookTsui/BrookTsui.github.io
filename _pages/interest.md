@@ -6,8 +6,6 @@ author_profile: true
 ---
 I have a broad interest across many fields, and enjoy the diversity and the serendipitous coalescence. Want to understand and possibly master the essence of important physics, and then devote myself into all fields I wonder why. 
 
-[1](talk1.md)
-
 # Neutrino Physics
 ---
 It shocked me when knowing mass eigenstates are not necessarily interactive eigenstates. This results the massive neutrino oscillation, which has been observed by the SuperK and SNO, providing the first firm evidence of beyond the standard model.
