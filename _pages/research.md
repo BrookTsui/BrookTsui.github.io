@@ -13,7 +13,6 @@ author_profile: true
 <details>
   <summary> Click me </summary>
 
-<p>
 Our original argument is that if one considers the horizon radius $r$ as the position uncertainty of the singularity, there must be an energy uncertainty $\Delta E\sim \frac{1}{r}$, hence $E \Delta E\sim 1$ given $E\sim r$. One thus may consider the BH energy spectra as a band rather than a line. The appearance of the upper bound usually implies the possibility of negative temperature, hence the project. 
 
 After studying BH physics and quantum mechanics, I realized it was wrong eventually. The point is that $r$ is actually the maximum position uncertainty, and then $\Delta E$ is the minimum uncertainty. The energy spectra are exactly the complement of the so-called band. No upper bound. 
@@ -52,10 +51,6 @@ When logging this period, I came to the [paper](../files/jacobson-T.pdf) written
 In hindsight, I have learned a lot from this subject, which has led me into the palace of theoretical physics. I appreciate all of it in terms of this. However, this has also exposed my problems like being afraid to confer with the mentor, lacking the ability of information retrieving that I should find Volovik's or Jacobson's paper earlier, and giving up easily. 
 
 Now, after a whole year, I believe I have overcome them. But still, hope this unsuccessful starting could be my toll ticking once I am on the verge of relapsing. 
-
----
-</p>
-  
 </details>
 
 
