@@ -16,10 +16,7 @@ author_profile: true
 Our original argument is that if one considers the horizon radius $r$ as the position uncertainty of the singularity, there must be an energy uncertainty $\Delta E\sim \frac{1}{r}$, hence $E \Delta E\sim 1$ given $E\sim r$. One thus may consider the BH energy spectra as a band rather than a line. The appearance of the upper bound usually implies the possibility of negative temperature, hence the project. 
 
 After studying BH physics and quantum mechanics, I realized it was wrong eventually. The point is that $r$ is actually the maximum position uncertainty, and then $\Delta E$ is the minimum uncertainty. The energy spectra are exactly the complement of the so-called band. No upper bound. 
-</details>
 
-<details>
-  <summary> Click me </summary>
 But still, I decided to continue the research because I found it a fascinating thermodynamical concept. We generally believe that $\frac{\partial E}{\partial S}>0$ is true for BHs, but out of the pure formal symmetry, there is no reason to not discuss the opposite. 
 
 ---
@@ -28,8 +25,15 @@ Firstly, I studied the regular negative temperature systems, including the popul
 
 It is the energy-bounded and number-limited quantum S. H. O. For example, N oscillators huddling in $E=0$ state or $E=E_{max}$ state both have zero entropy, and then a smooth transition must yield a fraction with $\frac{\partial E}{\partial S}<0$. 
 
-Quantifying the entropy requires the restricted integer partition function. I independently proved a recurrence relation. After communicating with a friend studying mathematics, I found it's a rather special case that has been studied previously. With his help, I learned a lot of number theory then and modified an equation from the [paper](../files/PN.pdf) which we adopted later on. 
+</details>
 
+<details>
+  <summary> Click me </summary>
+Quantifying the entropy requires the restricted integer partition function. I independently proved a recurrence relation. After communicating with a friend studying mathematics, I found it's a rather special case that has been studied previously. With his help, I learned a lot of number theory then and modified an equation from the [paper](../files/PN.pdf) which we adopted later on. 
+</detials>
+
+<details>
+  <summary> Click me </summary>
 ---
 
 Then I began to connect it with BHs. During this period, I tried four ways: 
@@ -38,7 +42,7 @@ Then I began to connect it with BHs. During this period, I tried four ways:
 In this period, I came to the subject called BH phase transition and chaos. For interest, I discussed the phase space of RN-AdS BH, calculated the Lyapunov exponent by MMA, and studied the reaction of null and time-like geodesics of a point-like particle and classical string under the Large/Small BH phase transition. The free energies indeed undergo a discontinuous change. 
 
 2. After the first attempt, I realized we should go beyond the static BHs since negative T systems are out of equilibrium, and then found [M. Park's paper](../files/parkexoticbtz.pdf) about the negative T appearing in exotic-BTZ black holes. I reproduced the result. But in the discussion with the mentor, we felt some arguments were skeptical. Therefore I did not follow the work. 
-
+</details>
 3. I considered the negative-entropy objects and white holes (WH), which seem promising for the subject. I independently proved that for WHs the temperature should be negative and entropy should be positive by considering WHs as the time-reversed BHs. However, I then found [Volovik](https://arxiv.org/abs/2103.10954) has published a series of papers for this project. Then it aborted. 
 
 4. Meanwhile, I began to consider the possibility of mapping a negative T quantum system on the boundary to the bulk by AdS/CFT. It requires many mathematical and physical preliminaries, but the mentor and I both like it, so I bought many relevant books for preparation.
