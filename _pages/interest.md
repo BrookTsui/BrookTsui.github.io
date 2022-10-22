@@ -16,7 +16,9 @@ Currently neutrino physics has vast experimental progress but still cannot addre
 2. Is it Dirac or Majorana-type? 
 
 3. Whether there is a large CP violation in the neutrino sector? 
+
 4. Can neutrinos provide a successful baryogenesis mechanism, and how to test it? 
+
 5. ...
 
 These question can be answered by the low-energy experiments, such as $0\nu \beta \beta$ decay, neutrino long and short baseline, neutron-antineutron oscillation, *etc*. The relatively lower costs means it would be one of the important directions in the future. 
@@ -70,7 +72,6 @@ Aside, recall the discovery of DM, the role of GR in searching the physics beyon
 
 For example, the recent notable work is that [S. T. Yau and collaborators](../files/yau22.pdf) have proved the supertranslation-invariant definition of angular momentum in the curved spacetime, which was a long-nagging question in GR. The result will not only pave the way for further study of GR but also benefit gravitational wave detection since the emissions are usually produced by rotating emergence. 
 
-We are not good intuitive thinkers of 4D (or higher) spacetime, there thus will be some counter-intuitive outcomes like the [negative temperature](../files/jacobson-T.pdf) appearing in the causal diamond. What a good test for our understanding of the universe. 
 
 *BTW, highly recommend the book of [S. Weinberg](https://www.amazon.com/Gravitation-Cosmology-Principles-Applications-Relativity/dp/0471925675/ref=sr_1_4?keywords=weinberg&qid=1664884399&qu=eyJxc2MiOiI1LjIwIiwicXNhIjoiNC42NCIsInFzcCI6IjQuMzUifQ%3D%3D&sr=8-4) and the updating note of [M. Blau](http://www.blau.itp.unibe.ch/GRLecturenotes.html). They are the best I ever seen.*
 

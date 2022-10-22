@@ -10,6 +10,10 @@ author_profile: true
 - Mentor: [Haitang Yang](https://inspirehep.net/authors/1077699?ui-citation-summary=true)
 - Date: Dec. 2020 - Jun. 2021
 
+<details>
+  <summary> Click me </summary>
+
+
 Our original argument is that if one considers the horizon radius $r$ as the position uncertainty of the singularity, there must be an energy uncertainty $\Delta E\sim \frac{1}{r}$, hence $E \Delta E\sim 1$ given $E\sim r$. One thus may consider the BH energy spectra as a band rather than a line. The appearance of the upper bound usually implies the possibility of negative temperature, hence the project. 
 
 After studying BH physics and quantum mechanics, I realized it was wrong eventually. The point is that $r$ is actually the maximum position uncertainty, and then $\Delta E$ is the minimum uncertainty. The energy spectra are exactly the complement of the so-called band. No upper bound. 
@@ -50,12 +54,19 @@ In hindsight, I have learned a lot from this subject, which has led me into the 
 Now, after a whole year, I believe I have overcome them. But still, hope this unsuccessful starting could be my toll ticking once I am on the verge of relapsing. 
 
 ---
+  
+</details>
+
+
 
 # 2. Noncummutative Spacetime Phenomenology
 
 - Institution: Sichuan University, China
 - Mentor: Xin-Ted Lin
 - Date: Apr. 2022 - Present
+
+<details>
+  <summary> Click me </summary>
 
 It is a part of the conclusion for one of my long-lagging questions since I was learning QM, what will happen if we alter the (anti-)commutators? From the aspect of the comparatively perfect number field, complex number, $\pm1$ is nothing but two incidences, and the more general relation between operators shall be $ab+e^{i \theta} ba=0$. What will result from it? 
 
@@ -76,12 +87,15 @@ The extremely small $\chi$ suppresses the exotic transition that is experimental
 The paper is in writing, and we hope to publish it at the end of the year. 
     
 ---
+</details>
 
 # 3. Bound on Primordial Black Holes Being DM
 - Location: University of Notre Dame, USA
 - Mentor: [Yuhsin Tsai](https://inspirehep.net/authors/1259942?ui-citation-summary=true)
 - Date: July 2022 - Present
 
+<details>
+  <summary> Click me </summary>
 This is curcuitous story. 
 
 At the beginning of March 2022, I sent an email to Prof. Tsai asking if he intended to enroll a student for the summer research. He rejected it since there had already been four students in his lab. But he was welcome for my physical questions. And we, therefore, have kept in touch. 
@@ -110,11 +124,15 @@ To be continued.
 
 ---
 
+</details>
+
 # 4. Dark Sector oscillation
 - Institution: Institute of Theoretical Physics, Chinese Academy of Sciences, China
 - Mentor: [Jianghao Yu](https://inspirehep.net/authors/1066117?ui-citation-summary=true)
 - Date: Aug. 2022 - Present
 
+<details>
+  <summary> Click me </summary>
 As I said, the neutrino physics is a not-to-miss subject, where theories and experiments parade abreast. So I came to Prof. Yu. 
 
 I have learned the electroweak theory, the neutrino mass model, including the Seesaw mechanism, and neutrino oscillation processes, including the MSW effect and collective oscillation, from the pendulum aspect and Boltzmann equation aspect.
@@ -122,3 +140,4 @@ I have learned the electroweak theory, the neutrino mass model, including the Se
 Firsly, I simulated the solar neutrino evolution, 
 
 
+</details>
