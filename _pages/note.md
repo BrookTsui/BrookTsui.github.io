@@ -32,7 +32,7 @@ The first time I came to it, I was fascinated by this interesting object, but I 
 
 6. Neutrino Mass [En]
 
-I introduce basic electroweak theory, explain the zero-neutrino-mass requirement in SM, and discuss some some mass models. 
+I introduced basic electroweak theory, explained the zero-neutrino-mass requirement in SM, and discuss some some mass models, including the Seesaw mechanism.
 
 ---
 # Report
