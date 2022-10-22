@@ -75,8 +75,18 @@ One day, my friend showed me their current work relative to it, and they needed 
 
 The altered relation comes from the non-commutativity of spacetime and  $\pm1 \rightarrow e^{i \chi f(E, J)}$, where $\chi$ is the model parameter, E and J are energy and angular momentum, respectively. It slightly differs from the conventional $\theta$-Poincare model and is more consistent with bound states. 
 
+</details>
+
+<details>
+  <summary> Click me </summary>
+
 Their motivation lies in the flaw of the experimental data of the [paper](../files/balachandran.pdf) they followed. They were also curious about a more fancy process with the three electrons cramped in 1S as the final state. However, this is beyond the priginal paper, which has only constructed a two-body relationship. Hence my work. 
 
+</details>
+
+<details>
+  <summary> Click me </summary>
+  
 I first studied the necessary mathematical setting - the Hopf algebra and the Drinfel'd twist, and made a short report to them. After poring the model, I found a way of imposing it on many-body systems, which has proved naive. Days later, after further studying, I understood the twist-trick they used and posited a possibly right extrapolation into any-body systems. The scheme adopted is to twist the permutation algebra and construct a twisted Fock space out of Hilbert space. 
 
 At the same time, I found some secret mistakes in the phase structure made by others. The theory would be comparatively neat after correcting. And based on this, I have shown that there will not be identical fermionic states even in the non-commutative spacetime, and therefore the final states they considered would be more exotic, that is, it exists in terms of a bosonic state. The non-zero overlap of an initial fermionic state to a final bosonic state is the unique prediction of non-commutative spacetime. 
@@ -86,8 +96,7 @@ Other than the exotic transition in atoms, we also considered its possible appea
 The extremely small $\chi$ suppresses the exotic transition that is experimentally interesting. To bound its value from experiments, Choosing the appropriate channel and atoms is necessary. We are not satisfied with this part of the original paper and have tried to posit a more consistent plan and explanation. 
 
 The paper is in writing, and we hope to publish it at the end of the year. 
-    
----
+
 </details>
 
 # 3. Bound on Primordial Black Holes Being DM
