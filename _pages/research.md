@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Research"
+title: "Research Experience"
 permalink: /research/
 author_profile: true
 ---
 
-## 1. Black Hole Thermodynamics
+# Black Hole Thermodynamics
 - Institution: Sichuan University, China
-- Mentor: Haitang Yang
+- Mentor: [Haitang Yang](https://inspirehep.net/authors/1077699?ui-citation-summary=true)
 - Date: Dec. 2020 - Jun. 2021
 
 Our original argument is that if one considers the horizon radius as the maximum position uncertainty of the singularity, there must be a minimum energy uncertainty $\Delta E$. However, the radius of the horizon is generally proportional to the energy. One thus may think there is a limit of the black hole energy as $E+\Delta E$. The upper bound of energy usually implies the possibility of negative temperature, hence the project. 
@@ -34,10 +34,11 @@ Hope this unsuccessful starting could be my toll ticking once I am on the verge 
 
 ---
 
-## 2. Non-cummutative Spacetime and Pauli Exclusion Principle Violation(PEPV)
+# Non-cummutative Spacetime Phenomenology
+
 - Institution: Sichuan University, China
-- Mentor: Xingde Lin
-- Date: Apr. 2022 - Now
+- Mentor: Xin-Ted Lin
+- Date: Apr. 2022 - Present
 
 It is a part of the conclusion for one of my long-lagging questions since I was learning QM, what will happen if we alter the (anti-)commutators? From the aspect of the comparatively perfect number field, complex number, $\pm1$ is nothing but two incidences, and the more general relation between operators shall be $ab+e^{i \theta} ba=0$. What will result from it? 
 
@@ -59,10 +60,10 @@ The paper is in writing, and we hope to publish it at the end of the year.
     
 ---
 
-## 3. Bound on Primordial Black Holes Being DM
+# Bound on Primordial Black Holes Being DM
 - Location: University of Notre Dame, USA
-- Mentor: Yuhsin Tsai
-- Date: July 2022 - Now
+- Mentor: [Yuhsin Tsai](https://inspirehep.net/authors/1259942?ui-citation-summary=true)
+- Date: July 2022 - Present
 
 This is curcuitous story. 
 
@@ -92,10 +93,10 @@ To be continued.
 
 ---
 
-## 4. Dark Sector oscillation
+# Dark Sector oscillation
 - Institution: Institute of Theoretical Physics, Chinese Academy of Sciences, China
-- Mentor: Jianghao Yu
-- Date: Aug. 2022 - Now
+- Mentor: [Jianghao Yu](https://inspirehep.net/authors/1066117?ui-citation-summary=true)
+- Date: Aug. 2022 - Present
 
 As I said, the neutrino physics is a not-to-miss subject, where theories and experiments parade abreast. So I came to Prof. Yu. 
 
