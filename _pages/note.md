@@ -22,7 +22,7 @@ The string part covers mainly the front half of David Tong's lecture, and the CF
 
 The final report of the class about string theory. 
 
-4. Quantum Field Theory [En]
+4. Quantum Electron Dynamics [En]
 
 I lavish to teach others since it also benefits me a lot. This note writen when I was teaching one of my roommate about QED, which he has to learn for quantum optics for the study of Ph.D.
 
@@ -44,8 +44,9 @@ This is the report I gave in the collaboration with Prof. Tsai of the University
 
 This is the report I made to the professors from Turkey on the ideas of my theoretical work in the PEPV. Some ideas were unclear then, and I developed them later on. The final form is in the paper. 
 
+3. [Exotic Transition](../files/exotic%20transition.pdf) [En]
 
-
+The continuation of the last report. I corrected my calculation, and proved some theorems, re-designed and elaborated on another experiment to test the model. 
 ---
 
 # Miscellanous Thoughts 
