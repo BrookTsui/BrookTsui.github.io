@@ -9,6 +9,7 @@ I was the drama club leader for 2 years in Sichuan University. During this time,
 
 O ever weeping, O ever youthful. 
 
+![tupian](allofus.jpg)
 
-
+![tupian](zb1.jpg)
 ---
