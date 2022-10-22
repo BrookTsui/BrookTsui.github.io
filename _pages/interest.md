@@ -7,7 +7,7 @@ author_profile: true
 I have a broad interest across many fields, and enjoy the diversity and the serendipitous coalescence. Want to understand and possibly master the essence of important physics, and then devote myself into all fields I wonder why. 
 
 # Neutrino Physics
----
+
 It shocked me when knowing mass eigenstates are not necessarily interactive eigenstates. This results the massive neutrino oscillation, which has been observed by the SuperK and SNO, providing the first firm evidence of beyond the standard model.
 
 Currently neutrino physics has vast experimental progress but still cannot address competely theoretical puzzles from the tiny but non-zero neutrino masses:
@@ -26,7 +26,6 @@ Besides, the potential deviation of W-boson mass from SM also implies the incomp
 From both theoretical and experimental aspects, neutrino physics is a subject not to be missed. Moreover, I secretly believe it is probably one of the rare subjects where **theories and experiments parade abreast** as of now.
 
 # Dark Sector
----
 
 *"What is this flame in darkness whose sparks are the stars?"*
 
@@ -41,7 +40,7 @@ Nonetheless, thanks to the common spacetime shared by DM and us, we do not need 
 Surely, we might need some new fundamental rules for exploration. It is an answer awaiting the right questions. 
 
 # Duality and Entanglement
----
+
 Quantum entanglemtn was initiated by [the EPR paradox](https://en.wikipedia.org/wiki/EPR_paradox), developed ably by many others, and now has increasingly become an important branch that seems able to unify many disciplines.  
 
 Besides the brandishing Quantum Information or Quantum Computer, I would like to say another gem I savored for a long time, [the Reeh-Schlieder theorem](../files/wittenqft.pdf), which states one can in principle create any states at any place by some local operators. It reveals the intrinsic entanglement-associated nature of QFT, which can be related to the necessity of the gauge ([quote Xiaogang Wen](https://www.zhihu.com/question/455033981/answer/2638229491)).
@@ -62,10 +61,10 @@ Quantum liquids, quark-gluon plasma, strongly correlated electron systems and ot
 
 
 # Black Hole and Spacetime
----
+
 AdS/CFT also studies BHs, I mainly mean the classical BHs, at least from the GR aspect in this section. You can consider it as Kerr scalar hair, Penrose process, BH shadow, casuality, and whatnot. 
 
-I like it because of the beauty of GR. What is your feeling when you know that the actual inertia guy is who freely falls instead of you standing readily on the earth? For me, a bolt of electrons raced up my spine. There are some beautiful structures within the classical GR, like marbles. And among all marbles, the most saliant would be, personally, the prediction of BHs, the simple and elegant objects marrying QM with GR. 
+I like it because of the beauty of GR. What is your feeling when you know that the actual inertia guy is who freely falls instead of you standing readily on the earth? For me, a bolt of electrons raced up my spine. GR likes marbles, among which the most saliant would be, personally, BHs, the simple and elegant objects marrying QM with GR. 
 
 To better understand BHs, we should dig deep into the geometery of spacetime, whcich is an active field. Although some one consider it as a kind of old school physics. 
 

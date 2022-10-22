@@ -34,7 +34,7 @@ The first time I came to it, I was fascinated by this interesting object, but I 
 
 I introduced basic electroweak theory, explained the zero-neutrino-mass requirement in SM, and discuss some some mass models, including the Seesaw mechanism.
 
----
+
 # Report
 1. [Hawking Emission](../files/hawkingppt.pdf) [En]
 
@@ -48,7 +48,7 @@ This is the report I made to the professors from Turkey on the ideas of my theor
 
 The continuation of the last report. I corrected my calculation, and proved some theorems, re-designed and elaborated on another experiment to test the model. 
 
----
+
 
 # Miscellanous Thoughts 
 1. [GUP, the Generalized Uncertainty Principle](../files/GUP.pdf) [En]
