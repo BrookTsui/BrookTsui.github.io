@@ -74,32 +74,29 @@ The entanglement is not only a fancy story that can be discussed under QFT but a
 
 A better understanding of the entanglement would benefit the axiomatization of QFT, including AQFT, and the physics of beyond SM since it does not necessarily mean beyond the quantum field theory, which, being a frame, applies throughout the discussion of dark matters and neutrinos *, etc*.
 
-The interest for this field originated from lectures about the [Black Hole/Superconductor correspondence](https://www.youtube.com/watch?v=L5WY9xGPjS4&t=5054s) given by S. Hartnoll at Stanford University. Two points he mentioned impressed me: superconductor is as same as the U(1) symmetry-breaking mechine for photon; black holes, from AdS/CFT aspect, are nothing but quantum objects. 
-
-I so far have three main interests abouut quantum matters: 
-
-- Superconductor: 
-
-The theory underlying the conventional superconductor is the BCS theory, which however can only explain the low-temperature superconductence. The room-temperature superconductors have transcended the paradigm. To understand it, we have to study the quantum liquids and other quantum exotic matters, like quark-gluon plasma and strongly correlated electron systems. A very useful and fruitful way of tackling these is the holographic duality, which is also coined as AdS/CMT for condensed matter physics. 
-
 - AdS/CMT: 
 
-In the opposite direction, CMT to AdS also provides us with useful models to study, like the SYK model and the Ising model. It is not irrelavent to mention that the most fanscinating part for me in the study of QHE is the connection with [gravity anomaly](../files/gravityanomaly.pdf). It is the merit of CMT. 
+CMT usually provides us with useful and informative models, like the SYK model and the Ising model. It is not irrelavent to mention that the most fanscinating part for me in the study of QHE is the connection with [gravity anomaly](../files/gravityanomaly.pdf). The merit of CMT. 
 
 I have benefited a lot from likening the Spontaneous Symmetry Breaking (SSB) of electroweak theory to the Ising model inspired by the discussion of [Xiaogang Wen on PhysicsStackExchange.](https://physics.stackexchange.com/questions/29311/what-is-spontaneous-symmetry-breaking-in-quantum-systems)
+
+The interest for this field originated from lectures about the [Black Hole/Superconductor correspondence](https://www.youtube.com/watch?v=L5WY9xGPjS4&t=5054s) given by S. Hartnoll at Stanford University. Two points he mentioned impressed me: superconductor is as same as the U(1) symmetry-breaking mechine for photon, and black holes are nothing but quantum objects. 
+
+The theory underlying the conventional superconductor is the BCS theory, which however can only explain the low-temperature superconductence. The room-temperature superconductors have transcended the paradigm. To understand it, we have to study the quantum liquids and other quantum exotic matters, like quark-gluon plasma and strongly correlated electron systems. A very useful and fruitful way of tackling these is the holographic duality. This is a frontier of QCD. 
 
 Also, quantum matters are potential tools of [quantum simulation](../files/qshep.pdf) for high-energy physics. 
 
 It thus reasonable to think the interplay of quantum matters with the prosperous AdS/CMT will play an important role in future physics, and some ideas of CMT, like topological order, *etc*, would benefit HEP in the same way as the SSB.  
 
-For this field, I do not have a great ambition, and all I want is to savor its fanscinating progress, and then, if possible, bridge it with and injecting inspring elements into HEP. If lucky enough, vice versa. 
+For this field, I do not have a great ambition, and all I want is to savor its fanscinating progress, broaden my horizon about physics, and then, if possible, bridge it with and injecting inspring elements into HEP. If lucky enough, vice versa. 
 
 
 The 2022 Nobel Prize in physics was awarded for quantum information. The golden age for QI is coming. To where the entanglement will lead us? 
 
 # Black Hole
 
-What is your feeling when you know that the actual inertia guy is who freely falls instead of you standing readily on the earth? For me, a bolt of electrons raced up my spine. There are some beautiful structures within the classical GR, like marbles. HEP recently largely concentrates on quantum gravity, and the unavoidable singularities of GR become a stunning black blot. But other than this, I believe GR is intrinsically elegant. 
+What is your feeling when you know that the actual inertia guy is who freely falls instead of you standing readily on the earth? For me, a bolt of electrons raced up my spine. There are some beautiful structures within the classical GR, like marbles. And among all marbles, the most saliant would be, personally, the prediction of BHs, a simple and elegant object marrying QM with GR.
+
 The pioneering work done by Bekenstein and Hawking has opened the vista to a brand new physical world, where quantum marries gravity. 
 
 The ineffable area entropy implies the holography principle, the great revolution of our understanding of spacetime and information. This field has proved fruitful. 
