@@ -45,7 +45,7 @@ Surely, we might need some new fundamental rules for exploration. It is an answe
 ---
 Quantum entanglemtn was initiated by [the EPR paradox](https://en.wikipedia.org/wiki/EPR_paradox), developed ably by many others, and now has increasingly become an important branch that seems able to unify many disciplines.  
 
-Besides the brandishing Quantum Information or Quantum Computer, I would like to say another gem I savored for a long time, [the Reeh-Schlieder theorem](../files/wittenqft.pdf), which states one can in principle create any states at any place by some local operators. It reveals the intrinsic entanglement-associated nature of QFT, which can be related to the necessity of the gauge ([quote Xiaogang Wen](https://www.zhihu.com/question/455033981/answer/2638229491)).
+Besides the brandishing Quantum Information or Quantum Computer, I would like to say another gem I savored for a long time, [the Reeh-Schlieder theorem](https://arxiv.org/abs/1803.04993), which states one can in principle create any states at any place by some local operators. It reveals the intrinsic entanglement-associated nature of QFT, which can be related to the necessity of the gauge ([quote Xiaogang Wen](https://www.zhihu.com/question/455033981/answer/2638229491)).
 
 For a large picture, AdS/CFT is a not-to-miss subject, which originates from the area entropy of BHs and the holography principle. There are many fascinating fruits from it, one the most salients (in my opinion) is the [RT-formula](https://arxiv.org/abs/hep-th/0603001), which states that the entanglement entropy of the boundary system is as same as the area entropy of the corresponding minimum-area volume. An implication would be that there will be no volume when there is no entanglement on the boundary. Somehow, gravity emerges from quantum.
 
@@ -53,7 +53,7 @@ The Hawking radiation itself proffers many clues to the entanglement, given the 
 
 Other then such thrilling unification, another important and same fruitful aspect is AdS/CMT, the term coined by CMT theorests for studying the quantum materials from holography. 
 
-It is a win-win situation. CMT theorists benefit from many concepts of HEP, like the connection between QHE and [gravity anomaly](../files/gravityanomaly.pdf), and HEP theorists benefit from the useful and informative models, like the SYK model and the Ising model. 
+It is a win-win situation. CMT theorists benefit from many concepts of HEP, like the connection between QHE and [gravity anomaly](https://arxiv.org/abs/1201.4095), and HEP theorists benefit from the useful and informative models, like the SYK model and the Ising model. 
 
 The recent child is [Black Hole/Superconductor Correspondence](https://www.youtube.com/watch?v=L5WY9xGPjS4&t=5054s), which opens the new vista to other mechanisms of superconductence, transcending the tranditional BCS paradigm. 
 
@@ -70,7 +70,7 @@ To better understand BHs, we should dig deep into the geometery of spacetime, wh
 
 Aside, recall the discovery of DM, the role of GR in searching the physics beyond SM is indispensable, given only by GR we can predict and detect the large-scale structure which has been missing in the study of the quantum world for a long time. In the multi-messenger time, a solid understanding of Gr must be more and more important.  
 
-For example, the recent notable work is that [S. T. Yau and collaborators](../files/yau22.pdf) have proved the supertranslation-invariant definition of angular momentum in the curved spacetime, which was a long-nagging question in GR. The result will not only pave the way for further study of GR but also benefit gravitational wave detection since the emissions are usually produced by rotating emergence. 
+For example, the recent notable work is that [S. T. Yau and collaborators](https://arxiv.org/abs/2204.03182) have proved the supertranslation-invariant definition of angular momentum in the curved spacetime, which was a long-nagging question in GR. The result will not only pave the way for further study of GR but also benefit gravitational wave detection since the emissions are usually produced by rotating emergence. 
 
 
 *BTW, highly recommend the book of [S. Weinberg](https://www.amazon.com/Gravitation-Cosmology-Principles-Applications-Relativity/dp/0471925675/ref=sr_1_4?keywords=weinberg&qid=1664884399&qu=eyJxc2MiOiI1LjIwIiwicXNhIjoiNC42NCIsInFzcCI6IjQuMzUifQ%3D%3D&sr=8-4) and the updating note of [M. Blau](http://www.blau.itp.unibe.ch/GRLecturenotes.html). They are the best I ever seen.*

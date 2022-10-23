@@ -6,7 +6,7 @@ One day, my friend showed me their current work relative to it, and they needed 
 
 The altered relation comes from the non-commutativity of spacetime and  $\pm1 \rightarrow e^{i \chi f(E, J)}$, where $\chi$ is the model parameter, E and J are energy and angular momentum, respectively. It slightly differs from the conventional $\theta$-Poincare model and is more consistent with bound states. 
 
-Their motivation lies in the flaw of the experimental data of the [paper](../files/balachandran.pdf) they followed. They were also curious about a more fancy process with the three electrons cramped in 1S as the final state. However, this is beyond the priginal paper, which has only constructed a two-body relationship. Hence my work. 
+Their motivation lies in the flaw of the experimental data of the [paper](https://arxiv.org/abs/1006.1185) they followed. They were also curious about a more fancy process with the three electrons cramped in 1S as the final state. However, this is beyond the priginal paper, which has only constructed a two-body relationship. Hence my work. 
 
 I first studied the necessary mathematical setting - the Hopf algebra and the Drinfel'd twist, and made a short report to them. After poring the model, I found a way of imposing it on many-body systems, which has proved naive. Days later, after further studying, I understood the twist-trick they used and posited a possibly right extrapolation into any-body systems. The scheme adopted is to twist the permutation algebra and construct a twisted Fock space out of Hilbert space. 
 

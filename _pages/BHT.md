@@ -13,7 +13,7 @@ Firstly, I studied the regular negative temperature systems, including the popul
 It is the energy-bounded and number-limited quantum S. H. O. For example, N oscillators huddling in $E=0$ state or $E=E_{max}$ state both have zero entropy, and then a smooth transition must yield a fraction with $\frac{\partial E}{\partial S}<0$. 
 
 
-Quantifying the entropy requires the restricted integer partition function. I independently proved a recurrence relation. After communicating with a friend studying mathematics, I found it's a rather special case that has been studied previously. With his help, I learned a lot of number theory then and modified an equation from the [paper](../files/PN.pdf) which we adopted later on. 
+Quantifying the entropy requires the restricted integer partition function. I independently proved a recurrence relation. After communicating with a friend studying mathematics, I found it's a rather special case that has been studied previously. With his help, I learned a lot of number theory then and modified an equation from the [paper](https://arxiv.org/abs/1805.06108#:~:text=A%20generalized%20Hardy%2DRamanujan%20formula%20for%20the%20number%20of%20restricted%20integer%20partitions,-Tiefeng%20Jiang%2C%20Ke&text=We%20derive%20the%20asymptotic%20formula,to%20%5Csqrt%7Bn%7D.) which we adopted later on. 
 
 ---
 
@@ -22,7 +22,7 @@ Then I began to connect it with BHs. During this period, I tried four ways:
 1. I followed the work of [Yuxiao Liu and Shaowen Wei](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.071103) on counting BH microstates via Ruppener geometry, discussing the entropy in the scheme of BH molecules. However, it is virtually irrelevant to our proposal and mainly restricted to the Van der Waals analogy. 
 In this period, I came to the subject called BH phase transition and chaos. For interest, I discussed the phase space of RN-AdS BH, calculated the Lyapunov exponent by MMA, and studied the reaction of null and time-like geodesics of a point-like particle and classical string under the Large/Small BH phase transition. The free energies indeed undergo a discontinuous change. 
 
-2. After the first attempt, I realized we should go beyond the static BHs since negative T systems are out of equilibrium, and then found [M. Park's paper](../files/parkexoticbtz.pdf) about the negative T appearing in exotic-BTZ black holes. I reproduced the result. But in the discussion with the mentor, we felt some arguments were skeptical. Therefore I did not follow the work. 
+2. After the first attempt, I realized we should go beyond the static BHs since negative T systems are out of equilibrium, and then found [M. Park's paper](https://arxiv.org/abs/hep-th/0610140) about the negative T appearing in exotic-BTZ black holes. I reproduced the result. But in the discussion with the mentor, we felt some arguments were skeptical. Therefore I did not follow the work. 
 
 3. I considered the negative-entropy objects and white holes (WH), which seem promising for the subject. I independently proved that for WHs the temperature should be negative and entropy should be positive by considering WHs as the time-reversed BHs. However, I then found [Volovik](https://arxiv.org/abs/2103.10954) has published a series of papers for this project. Then it aborted. 
 
@@ -34,7 +34,7 @@ However, the pandemic began to rage. Quarantined at home without enough communic
 
 Months later, I concluded all my work in a [report](../files/BH-T.pdf) and submitted it to the National Undergraduate Innovation Program and won the University Award. 
 
-When logging this period, I came to the [paper](../files/jacobson-T.pdf) written by T. Jacobson *et al*  on the negative temperature, in which they considered the BHs in the casual diamonds with the appearance of upper energy bound. Another interesting possibility I never thought of before. 
+When logging this period, I came to the [paper](https://arxiv.org/abs/1904.04843) written by T. Jacobson *et al*  on the negative temperature, in which they considered the BHs in the casual diamonds with the appearance of upper energy bound. Another interesting possibility I never thought of before. 
 
 In hindsight, I have learned a lot from this subject, which has led me into the palace of theoretical physics. I appreciate all of it in terms of this. However, this has also exposed my problems like being afraid to confer with the mentor, lacking the ability of information retrieving that I should find Volovik's or Jacobson's paper earlier, and giving up easily. 
 
