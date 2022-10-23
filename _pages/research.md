@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## 1. Black Hole Thermodynamics
+## 1. Black Hole Thermodynamics and Negative Temperature
 - Institution: Sichuan University, China
 - Mentor: [Haitang Yang](https://inspirehep.net/authors/1077699?ui-citation-summary=true)
 - Date: Dec. 2020 - Jun. 2021

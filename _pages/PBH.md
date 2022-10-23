@@ -1,8 +1,14 @@
 This is curcuitous story. 
 
-At the beginning of March 2022, I sent an email to Prof. Tsai asking if he intended to enroll a student for the summer research. He rejected it since there had already been four students in his lab. But he was welcome for my physical questions. And we, therefore, have kept in touch. 
+At the beginning of March 2022, I sent an email to Prof. Tsai asking if he intended to enroll a student for the summer research. Unfortunately, he said sorry for having already been mentoring four undergraduates then, but still welcome for physics questions. And we, therefore, have kept in touch since then. 
 
-Initially, I just tried to follow [his work about the unitary bound](https://arxiv.org/abs/2103.13396), which I found interesting since I used to take it as granted. Meanwhile, I have consulted him many times the questions about the electroweak theory. During this period, I also sent him my idea about the GUP, although we did not elaborate on it since there are some peculiar traits hard to justify. 
+Initially, I tried to study his work about the [unitary bound](https://arxiv.org/abs/2103.13396), which I found interesting since in the undergraduate study we always simply assume theories are unitary, taking it as granted. I'm curious about what is the mechanism and "aftermath" of violating it.  
+
+At the time, I had learned QFT for a semaster, covering part-I of Peskin, but the question they discussed in the paper is the lepton physics and the Stueckelberg limit, neither of which are familiar for me. It took 
+
+
+
+consulted him many times the questions about the electroweak theory. During this period, I also sent him my idea about the GUP, although we did not elaborate on it since there are some peculiar traits hard to justify. 
 
 The question-and-answer exchange lasted for several months, and the collaboration began in July. 
 
