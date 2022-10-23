@@ -1,4 +1,3 @@
-## Black Hole Thermodynamics and Negative Temperature
 
 Our original argument is that if one considers the horizon radius $r$ as the position uncertainty of the singularity, there must be an energy uncertainty $\Delta E\sim \frac{1}{r}$, hence $E \Delta E\sim 1$ given $E\sim r$. One thus may consider the BH energy spectra as a band rather than a line. The appearance of the upper bound usually implies the possibility of negative temperature, hence the project. 
 
@@ -19,14 +18,13 @@ Quantifying the entropy requires the restricted integer partition function. I in
 
 Then I began to connect it with BHs. During this period, I tried four ways: 
 
-1. I followed the work of [Yuxiao Liu and Shaowen Wei](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.071103) on counting BH microstates via Ruppener geometry, discussing the entropy in the scheme of BH molecules. However, it is virtually irrelevant to our proposal and mainly restricted to the Van der Waals analogy. 
-In this period, I came to the subject called BH phase transition and chaos. For interest, I discussed the phase space of RN-AdS BH, calculated the Lyapunov exponent by MMA, and studied the reaction of null and time-like geodesics of a point-like particle and classical string under the Large/Small BH phase transition. The free energies indeed undergo a discontinuous change. 
+1. I followed the work of [Yuxiao Liu and Shaowen Wei](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.071103) on counting BH microstates via Ruppener geometry, discussing the entropy in the scheme of BH molecules. However, it is virtually irrelevant to our proposal and mainly restricted to the van der Waals analogy. But from this line, I came to the RN-AdS BHs, the thermodynamical stable BHs whose phase space is similar to van der Waals liquid. I studied the Large/Small BH phase transition of such BHs and found that the [free energy](../files/LSBH.pdf) does implicate a second-order phase transition. To study its impact on the black hole shadow, the "visual picture" of BHs for an infinite-far-away observer, I calculated the Lyapunov exponent for [massless](../files/lya-massless.pdf) and [massive](../files/lya-massive.pdf) particles by MMA and simulated the reaction of null- and time-like geodesics respectively. [Click to see the code.](../files/3.0-Timelike%20geodesic.nb) The phase transition brings some interesting phenomena, but I did not continue since it diverges from the original goal. 
 
-2. After the first attempt, I realized we should go beyond the static BHs since negative T systems are out of equilibrium, and then found [M. Park's paper](https://arxiv.org/abs/hep-th/0610140) about the negative T appearing in exotic-BTZ black holes. I reproduced the result. But in the discussion with the mentor, we felt some arguments were skeptical. Therefore I did not follow the work. 
+2. After the first attempt, I realized we should go beyond the familiar static BHs since negative T systems are out of equilibrium, and then found [M. Park's paper](https://arxiv.org/abs/hep-th/0610140) about the negative T appearing in exotic-BTZ black holes. I reproduced the result. But in the discussion with the mentor, we felt some arguments were skeptical. Therefore I did not follow the work. 
 
-3. I considered the negative-entropy objects and white holes (WH), which seem promising for the subject. I independently proved that for WHs the temperature should be negative and entropy should be positive by considering WHs as the time-reversed BHs. However, I then found [Volovik](https://arxiv.org/abs/2103.10954) has published a series of papers for this project. Then it aborted. 
+3. I considered the negative-entropy objects and white holes (WH), which seem promising for the subject. I independently proved that for WHs the temperature should be negative and entropy should be positive by considering WHs as the time-reversed BHs. However, I then found [Volovik](https://arxiv.org/abs/2103.10954) has published a series of papers for this project, and the problem has been solved ably. Then the scheme aborted. 
 
-4. Meanwhile, I began to consider the possibility of mapping a negative T quantum system on the boundary to the bulk by AdS/CFT. It requires many mathematical and physical preliminaries, but the mentor and I both like it, so I bought many relevant books for preparation.
+4. Meanwhile, I began to consider the possibility of mapping a negative T quantum system on the boundary to the bulk by AdS/CFT. It requires many mathematical and physical preliminaries, but I was excited about it. So I bought many relevant books for preparation. 
 
 ---
 
@@ -36,6 +34,6 @@ Months later, I concluded all my work in a [report](../files/BH-T.pdf) and submi
 
 When logging this period, I came to the [paper](https://arxiv.org/abs/1904.04843) written by T. Jacobson *et al*  on the negative temperature, in which they considered the BHs in the casual diamonds with the appearance of upper energy bound. Another interesting possibility I never thought of before. 
 
-In hindsight, I have learned a lot from this subject, which has led me into the palace of theoretical physics. I appreciate all of it in terms of this. However, this has also exposed my problems like being afraid to confer with the mentor, lacking the ability of information retrieving that I should find Volovik's or Jacobson's paper earlier, and giving up easily. 
+In hindsight, I have learned a lot from this subject, which has led me into the palace of theoretical physics. I appreciate all of it in terms of this. However, this has also exposed my problems like being afraid to confer with the mentor and giving up easily. Actually, there were some possible ways to continue, but because of my stubborn desire to do something different, or my excessive insistence on the original goal, I finally missed all of them. 
 
 Now, after a whole year, I believe I have overcome them. But still, hope this unsuccessful starting could be my toll ticking once I am on the verge of relapsing.

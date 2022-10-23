@@ -1,12 +1,14 @@
-# Noncommutative Spacetime and Phenomenology
+It is an answer, partly, for one of my long-nagging questions since learning QM: What will happen if we alter the (anti-)commutators? With the complex number, the comparatively perfect number field, $\pm 1$ is nothing but two incidences, and the more general coefficients between operators is $ab+e^{i \theta} ba=0$. What will result from it? 
 
-It is a part of the conclusion for one of my long-lagging questions since I was learning QM, what will happen if we alter the (anti-)commutators? From the aspect of the comparatively perfect number field, complex number, $\pm1$ is nothing but two incidences, and the more general relation between operators shall be $ab+e^{i \theta} ba=0$. What will result from it? 
+One day, my friend, a future experimentalist, showed me their current work relative to it, and said they need a theory guy. Then I said yes. 
 
-One day, my friend showed me their current work relative to it, and they needed a theory guy since they are experimentalists. Then I said yes. 
+---
 
-The altered relation comes from the non-commutativity of spacetime and  $\pm1 \rightarrow e^{i \chi f(E, J)}$, where $\chi$ is the model parameter, E and J are energy and angular momentum, respectively. It slightly differs from the conventional $\theta$-Poincare model and is more consistent with bound states. 
+The altered relation in the model considered comes from replacing the regular product $\cdot$ with the Moyal produt $\star$, which is defined by Drinfel'd twist, turning $\pm1 \rightarrow \pm e^{i \chi f(E, J)}$, where $\chi$ is the model parameter, E and J are energy and angular momentum, respectively. It slightly differs from the conventional $\theta$-Poincare model and is more consistent with bound states. 
 
-Their motivation lies in the flaw of the experimental data of the [paper](https://arxiv.org/abs/1006.1185) they followed. They were also curious about a more fancy process with the three electrons cramped in 1S as the final state. However, this is beyond the priginal paper, which has only constructed a two-body relationship. Hence my work. 
+Their motivation lies in the flaw of the experimental data used by the [paper](https://arxiv.org/abs/1006.1185), which mainly discusses two electron conditions. They were curious if it can be extrapolated into many-body condition. 
+
+More fancy process with the three electrons cramped in 1S as the final state. However, this is beyond the priginal paper, which has only constructed a two-body relationship. Hence my work. 
 
 I first studied the necessary mathematical setting - the Hopf algebra and the Drinfel'd twist, and made a short report to them. After poring the model, I found a way of imposing it on many-body systems, which has proved naive. Days later, after further studying, I understood the twist-trick they used and posited a possibly right extrapolation into any-body systems. The scheme adopted is to twist the permutation algebra and construct a twisted Fock space out of Hilbert space. 
 

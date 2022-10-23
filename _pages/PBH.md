@@ -1,5 +1,3 @@
-# Bound
-
 This is curcuitous story. 
 
 At the beginning of March 2022, I sent an email to Prof. Tsai asking if he intended to enroll a student for the summer research. He rejected it since there had already been four students in his lab. But he was welcome for my physical questions. And we, therefore, have kept in touch. 
