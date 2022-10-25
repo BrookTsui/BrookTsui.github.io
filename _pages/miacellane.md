@@ -7,7 +7,7 @@ author_profile: true
 
 For me, so many aspects in my life worth to log, but the most memorable joyous time is the two years among the friends of the drama club. We recite, rehersal, and performe. I have passed the most lighthearted age. It howled, and darted away. O ever weeping, O ever youthful.
 
-<ul style="max-width:100%;margin:0">
+<!-- <ul style="max-width:100%;margin:0">
         <li style="list-style: none;
     float: left;
     width: 50%;
@@ -44,19 +44,27 @@ For me, so many aspects in my life worth to log, but the most memorable joyous t
     margin: 0 0;
     font-size: 0;
     overflow: hidden;"><img src="/_pages/meandhai.jpg"  width="100%" height=""/></li>
-</ul>
+</ul> -->
 
- <!-- <img src="/_pages/age.jpg"  width="50%" height=""/>
+<!-- <img src="/_pages/age.jpg"  width="50%" height=""/>
 
 <img src="/_pages/bus.jpg"  width="50%" height=""/>
 
 <img src="/_pages/allofus.jpg"  width="50%" height=""/>
 
-<img src="/_pages/meandhai.jpg"  width="50%" height=""/>
+<img src="/_pages/meandhai.jpg"  width="50%" height=""/> -->
 
-<p style="text-align:center;"> </p>
+<p style="text-align:center;"> <img src="/_pages/age.jpg"  width="50%" height=""/></p>
+<p style="text-align:center;"> Age </p>
 
-<p style="text-align:center;"> </p> -->
+<p style="text-align:center;"><img src="/_pages/bus.jpg"  width="50%" height=""/> </p>
+<p style="text-align:center;"> Bus </p>
+<p style="text-align:center;"> <img src="/_pages/allofus.jpg"  width="50%" height=""/></p>
+<p style="text-align:center;"> Allofus </p>
+<p style="text-align:center;"><img src="/_pages/meandhai.jpg"  width="50%" height=""/> </p>
+<p style="text-align:center;"> Meandhai </p>
+
+<br>
 
 I like Hermann Hesse, W. Whitman, and R. Feynman.
 
