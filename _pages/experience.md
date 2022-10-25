@@ -20,7 +20,7 @@ Location: Sichuan University (SCU), China
 
 Major: Mechinical Engineering
 
-- **Apr. 2022 - Sep. 2023 (imminent)**
+- **Apr. 2022 - Sep. 2023**
 
 Location: Sichuan University (SCU), China
 
