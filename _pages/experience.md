@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-## Born
+## Born: 
 - **Aug. 2000**
 
 Location: Weinan, Shaanxi Province, China

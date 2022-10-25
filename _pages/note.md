@@ -7,17 +7,16 @@ author_profile: true
 
 This is my archive where one can find all my notes and haphazard writings. 
 
-# A Paper A Dday
+# A Paper A Day
 I read [a story](https://www.nature.com/nature-index/news-blog/this-scientist-read-research-academic-paper-every-day-what-she-learned) from a [blog](https://hongtaoh.com/en/apad/). 
 
 It's must be benefitial to read new papers and log thoughts everyday. Surely I browser ArXiv, but not that frequent. Now I have subscribed it, maybe I could read more. 
 
-Here is the [link](https://1drv.ms/u/s!Asze0FhXxWSmlnvuRSnhqXHslCPZ?e=tMZpUn) to my OneNote of APAD. It starts since Dec. 25, 2022. 
+Here is the [link](https://1drv.ms/u/s!Asze0FhXxWSmlnvuRSnhqXHslCPZ?e=tMZpUn) to my OneNote of APAD. It starts since Oct. 25, 2022. 
 
 ---
 
 # Notes
-## High Energy Theory
  
 1. [Black Hole Thermodynamics, Negative Temperature](../files/BH-T.pdf) [Ch]
 
