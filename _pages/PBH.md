@@ -26,13 +26,13 @@ Therefore, firstly, I should write a new code to produce the emission spectra fo
 
 I read the papers of [Unruh](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.14.3251) and [Page](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.16.2402) for a basic picture. They both showed analytical derivation for low-energy scale. Such work partly affirmed my thought that the BH area is essentially the cross section given the cross section of all massless particles equals BH area in low energy scale. However, for massive particles, the cross section blows up. It befuddled me initially. Days later, I found a satisfactory explaination from Penrose diagram from which one can see all massive particles eventually colaseace with BHs. 
 
-To deepen the understanding, I also read [Hawking's original paper](https://link.springer.com/article/10.1007/BF02345020) and [Guth's famous note](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.14.870). It is always astonishing to know that Hawking derived the emission from physics guess. These papers corrected my naive understanding about quantum fields in curved spacetime and Hawking radiation. In my first research of BH thermodynamics, I did learn Hawking radiation, but at the time I thought it originates merely from the coordinate transformation and Bogoliubov transformation. This time, especially 
+To deepen the understanding, I also read [Hawking's original paper](https://link.springer.com/article/10.1007/BF02345020) and [Guth's famous note](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.14.870). It is always astonishing to know that Hawking derived the emission from physics guess. These papers corrected my naive understanding about quantum fields in curved spacetime and Hawking radiation. In my first research of BH thermodynamics, I did learn Hawking radiation, but at the time I thought it originates merely from the coordinate transformation and Bogoliubov transformation. 
 
-After research, I found carolina [paper](https://arxiv.org/abs/1404.0687) talking about the complete spectra of massive scalars in RN BHs, which then became our basis of studying. 
+After research, I found carolina [paper](https://arxiv.org/abs/1404.0687) showing nice diagrams of massive scalars in RN BHs, which then became our standard of cross-checking. 
 
-All I have learned was included in the [report](../files/hawkingppt.pdf) I gave to Prof. Tsai and the postdoc Tao in the meeting. 
+All I have learned in that month was included in the [report](../files/hawkingppt.pdf) I gave to Prof. Tsai and the postdoc Tao.  
 
-When the prepartion was done, I began the calculation by numerical methods. The basic method is the partial wave decomposition and equivalent-potential trick. This has been a challanging and interesting task since I am not proficient at MMA or other numerical tools. In the half month, I have read through a textbook about MMA. Eventually, by NDSolve with the help of the document, the circuitous road leads me to the right spectra.
+Then I began the calculation by numerical methods. The basic method is the partial wave decomposition and equivalent-potential trick. This has been a challanging and interesting task since I am not proficient at MMA or other numerical tools. In the half month, I have read through a textbook about MMA. Eventually, by NDSolve with the help of the document, the circuitous road leads me to the right spectra.
 
 
 

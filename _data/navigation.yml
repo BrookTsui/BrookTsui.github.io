@@ -17,3 +17,6 @@ main: #todo
 
   - title: "Course"
     url: /course/  
+
+  - title: "Experience"
+    url: /experience/
