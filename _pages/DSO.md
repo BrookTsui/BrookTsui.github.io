@@ -12,17 +12,17 @@ However, Prof. Yu suggested I focus on neutrino oscillation since studying the H
 
 ---
 
-After reading many review articles, I'm sure he's right. The various seesaw mechanisms with the common feature, right-handed sterile neutrino, for proffering tiny neutrino mass seems satisfying. And on a low-energy scale, the Weinberg operator endorses several experiments. The theory looks comparatively complete and promising unless experiments reveal more information, like the exact value of $\delta_{cp}$ and the existence of the Majorana mass or not. 
+After reading many [review articles](https://pdg.lbl.gov/2020/reviews/rpp2020-rev-neutrino-mixing.pdf), I'm sure he's right. The various seesaw mechanisms with the common feature, right-handed sterile neutrino, for proffering tiny neutrino mass seems satisfying. And on a low-energy scale, the Weinberg operator endorses several experiments. The theory looks comparatively complete and promising unless experiments reveal more information, like the exact value of $\delta_{cp}$ and the existence of the Majorana mass or not. 
 
 Here is the point, we need to know **to what phenomena will these models lead us**. Neutrino oscillation in complex environments like the supernova core is especially a mess, for which we should go. 
 
 ---
 
-I **studied the MSW effect** from two different paths: discussing interactive states evolution by the **effective Hamiltonian**, and applying **the density matrix and the pendulum scenario** to study its evolution under two-flavor approximation. For the latter, I also **numerically simulated the solar neutrino evolution** by MMA in a simplified model. I reported my progress in the meeting. 
+I **studied the MSW effect** from two different paths: discussing interactive states evolution by the **effective Hamiltonian** [(follow this)](https://arxiv.org/abs/1802.05781), and applying **the density matrix and the pendulum scenario** [(follow this)](https://arxiv.org/abs/1001.2799) to study its evolution under two-flavor approximation. For the latter, I also **numerically simulated the solar neutrino evolution** by MMA in a simplified model. I reported my progress in the meeting. 
 
-With the preparation done, I decided to **head for the supernova neutrino problem**. Such exotic cosmological events are inspiring. This period corrected my mindset about particles. In QFT, the picture I learned and developed is the interaction between little particles, like $e^{-}e^{-}\to e^{-}e^{-}$. But in the supernova core, hundreds of thousands of neutrinos, electrons, and photons interact collectively, forming a gigantic plasma in or out of equilibrium. It is fancy. Like jumping from the Newtonian mechanical world to the Boltzmann statistical world. 
+With the preparation done, I decided to **head for the supernova neutrino problem**. Such exotic cosmological events are inspiring. This period corrected my mindset about particles. In QFT, the picture I learned and developed is the interaction between little particles, like $e^{-}e^{-}\to e^{-}e^{-}$. But in the [supernova core](https://arxiv.org/abs/1508.00785), hundreds of thousands of neutrinos, electrons, and photons interact collectively, forming a gigantic plasma in or out of equilibrium. It is fancy. Like jumping from the Newtonian mechanical world to the Boltzmann statistical world. 
 
-In this region, active/sterile (if exists) neutrino oscillation plays an important role, and collision is indispensable now. So introduced by Lucas's paper, I began **the study on QKE**. 
+In this region, active/sterile (if exists) neutrino oscillation plays an important role, and collision is indispensable now. So introduced by Lucas's [paper](https://arxiv.org/abs/1908.04244), I began **the study on QKE**. 
 
 ---
 
