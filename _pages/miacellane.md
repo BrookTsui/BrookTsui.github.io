@@ -22,8 +22,6 @@ I like Hermann Hesse, W. Whitman, and R. Feynman.
 
 <img src="/_pages/heese.jpg" width="50%"/>
 
-<img src="/_pages/feynman.jpg" width="50%"/>
-
-![<img  width="50%"/>](feynman.jpg)
+<img src="/_pages/feynman.jpg" style="width:50%;text-align:center;"/>
 
 - **The first principle is that you must not fool yourself, and you are the easiest person to fool**
