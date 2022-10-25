@@ -4,11 +4,11 @@ title: ""
 permalink: /interest/
 author_profile: true
 ---
-I have a broad interest across many fields, and enjoy the diversity and the serendipitous coalescence. Want to understand and possibly master the essence of important physics, and then devote myself into all fields I wonder why. 
+I have a broad interest across many fields, and enjoy the diversity as well as their serendipitous coalescence. Hope to be able to understand the essence of important physics, and then devote myself into all fields I wonder why. 
 
 # Neutrino Physics
 ---
-It shocked me when knowing mass eigenstates are not necessarily interactive eigenstates. This results the massive neutrino oscillation, which has been observed by the SuperK and SNO, providing the first firm evidence of beyond the standard model.
+It shocked me when knowing mass eigenstates are not necessarily interactive eigenstates. This results the massive neutrino oscillation, which has been observed by the [SuperK](https://arxiv.org/abs/hep-ex/9807003) and [SNO](https://sno.phy.queensu.ca/), providing the first firm evidence of beyond the standard model.
 
 Currently neutrino physics has vast experimental progress but still cannot address competely theoretical puzzles from the tiny but non-zero neutrino masses:
 1. What is the origin of neutrino mass? why is it so samll? 
@@ -23,9 +23,9 @@ Currently neutrino physics has vast experimental progress but still cannot addre
 
 These question can be answered by the low-energy experiments, such as $0\nu \beta \beta$ decay, neutrino long and short baseline, neutron-antineutron oscillation, *etc*. The relatively lower costs means it would be one of the important directions in the future. 
 
-Besides, the potential deviation of W-boson mass from SM also implies the incompleteness of the electroweak theory. 
+Besides, the potential [discrepency of W-boson mass](https://www.science.org/doi/10.1126/science.abk1781) from SM also implies the incompleteness of the electroweak theory. 
 
-From both theoretical and experimental aspects, neutrino physics is a subject not to be missed. Moreover, I secretly believe it is probably one of the rare subjects where theories and experiments parade abreast as of now.
+From both theoretical and experimental aspects, neutrino physics is a subject not to be missed. Moreover, I secretly believe it is probably one of the rare projects where theories and experiments parade abreast as of now.
 
 # Dark Sector
 ---
