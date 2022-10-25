@@ -9,11 +9,11 @@ For me, so many aspects in my life worth to log, but the most memorable joyous t
 
 <div style="width:100%;height:50%">
 
-<div style="text-align:left;"> <img src="/_pages/age.jpg"  width="50%" height=""/>
+<div style="text-align:left;float:left"> <img src="/_pages/age.jpg"  width="50%" height=""/>
 
 <img src="/_pages/bus.jpg"  width="50%" height=""/></div>
 
-<div style="text-align:right;"> <img src="/_pages/allofus.jpg"  width="50%" height=""/>
+<div style="text-align:right;float:left"> <img src="/_pages/allofus.jpg"  width="50%" height=""/>
 
 <img src="/_pages/meandhai.jpg"  width="50%" height=""/></div>
 
