@@ -15,24 +15,14 @@ For me, so many aspects in my life worth to log, but the most memorable joyous t
 
 <p style="text-align:center;"> <img src="/_pages/meandhai.jpg"  width="50%" /></p>
 
-<!-- ![](age.jpg)
-![](bus.jpg)
-![](allofus.jpg)
-![](meandhai.jpg) -->
-
 I like Hermann Hesse, W. Whitman, and R. Feynman.
 
-<!-- ![hesse](hesse.jpg) -->
+<p style="text-align:center;"> <img src="/_pages/hesse.jpg"  width="50%" /></p>
 
-<p></p>
+<p style="text-align:center;"> Hesse </p>
 
-<img src="/_pages/hesse.jpg" width="60%"/>
+<p style="text-align:center;"> <img src="/_pages/feynman.jpg"  width="50%" /></p>
 
-<p> feyman</p>
-<img src="/_pages/feynman.jpg" width="60%"/>
-
-<!-- <img src="/_pages/hesse.jpg" width="60%" text-align="center"/>
-
-<img src="/_pages/feynman.jpg" width="60%" text-align="center"/> -->
+<p style="text-align:center;"> Feynman </p>
 
 - **The first principle is that you must not fool yourself, and you are the easiest person to fool**
