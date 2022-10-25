@@ -74,7 +74,7 @@ My knights of heart are H. Hesse, W. Whitman, and R. Feynman.
 
 <p style="text-align:center;"> H. Hesse </p>
 
-*Your home is the earth, ours the idea of it. Your danger is to be drowned in the world of sense, ours to gasp for breath in airless space. You are a poet, I a thinker. You sleep on your mother's breast, I watch in the wilderness. On me there shines the sun; on you the moon with all the stars. Your dreams are all of girls, mine of boys*
+*We are sun and moon, dear friend; we are sea and land. It is not our purpose to become each other; it is to recognize each other, to learn to see the other and honor him for what he is: each the other's opposite and complement*
 
 <p style="text-align:center;"> <img src="/_pages/feynman.jpg"  width="30%" height=""/></p>
 
