@@ -20,7 +20,9 @@ I like Hermann Hesse, W. Whitman, and R. Feynman.
 
 ![<img  width="50%"/>](hesse.jpg)
 
-<img src="./hesse.jpg" width="50%"/>
+<img src="/_pages/heese.jpg" width="50%"/>
+
+<img src="/_pages/feynman.jpg" width="50%"/>
 
 ![<img  width="50%"/>](feynman.jpg)
 
