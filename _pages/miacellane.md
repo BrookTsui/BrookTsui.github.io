@@ -8,8 +8,8 @@ author_profile: true
 For me, so many aspects in my life worth to log, but the most memorable joyous time is the two years among the friends of the drama club. We recite, rehersal, and performe. I have passed the most lighthearted age. It howled, and darted away. O ever weeping, O ever youthful.
 
 <table><tr>
-<td> <img src="age.jpg"  border=0 width="50%"/></td>
-<td> <img src="bus.jpg" border=0 width="50%"/> </td>
+<td> <img src="/_pages/age.jpg"  border=0 width="50%"/></td>
+<td> <img src="/_pages/bus.jpg" border=0 width="50%"/> </td>
 </tr></table>
 
 ![<img src="age.jpg" width="50%"/>](age.jpg)![<img src="age.jpg" width="50%"/>](bus.jpg)
