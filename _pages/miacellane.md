@@ -11,39 +11,39 @@ For me, so many aspects in my life worth to log, but the most memorable joyous t
         <li style="list-style: none;
     float: left;
     width: 50%;
-    height: 200px;
+    height: 100%;
     flex-basis: 50%;
     box-sizing: border-box;
     margin: 0 0;
     font-size: 0;
-    overflow: hidden;"><img src="/_pages/age.jpg"  width="80%" height=""/></li>
+    overflow: hidden;"><img src="/_pages/age.jpg"  width="100%" height=""/></li>
         <li style="list-style: none;
     float: left;
     width: 50%;
-    height: 200px;
+    height: 100%;
     flex-basis: 50%;
     box-sizing: border-box;
     margin: 0 10;
     font-size: 0;
-    overflow: hidden;"><img src="/_pages/bus.jpg"  width="80%" height=""/></li>
+    overflow: hidden;"><img src="/_pages/bus.jpg"  width="100%" height=""/></li>
         <li style="list-style: none;
     float: left;
     width: 50%;
-    height: 200px;
+    height: 100%;
     flex-basis: 50%;
     box-sizing: border-box;
     margin: 0 0;
     font-size: 0;
-    overflow: hidden;"><img src="/_pages/allofus.jpg"  width="80%" height=""/></li>
+    overflow: hidden;"><img src="/_pages/allofus.jpg"  width="100%" height=""/></li>
         <li style="list-style: none;
     float: left;
     width: 50%;
-    height: 200px;
+    height: 100%;
     flex-basis: 50%;
     box-sizing: border-box;
     margin: 0 0;
     font-size: 0;
-    overflow: hidden;"><img src="/_pages/meandhai.jpg"  width="80%" height=""/></li>
+    overflow: hidden;"><img src="/_pages/meandhai.jpg"  width="100%" height=""/></li>
 </ul>
 
  <!-- <img src="/_pages/age.jpg"  width="50%" height=""/>
