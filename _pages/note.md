@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Archive"
+title: ""
 permalink: /note/
 author_profile: true
 ---
@@ -8,9 +8,13 @@ author_profile: true
 This is my archive where one can find all my notes and haphazard writings. 
 
 # A Paper A Dday
-I read [a story](https://www.nature.com/nature-index/news-blog/this-scientist-read-research-academic-paper-every-day-what-she-learned) from another [blog](https://hongtaoh.com/en/apad/). It's must be benefitial to read new papers and log thoughts everyday. Surely I browser ArXiv, but not that frequent. Now I have subscribed it, maybe I could read more. 
+I read [a story](https://www.nature.com/nature-index/news-blog/this-scientist-read-research-academic-paper-every-day-what-she-learned) from a [blog](https://hongtaoh.com/en/apad/). 
+
+It's must be benefitial to read new papers and log thoughts everyday. Surely I browser ArXiv, but not that frequent. Now I have subscribed it, maybe I could read more. 
 
 Here is the [link](https://1drv.ms/u/s!Asze0FhXxWSmlnvuRSnhqXHslCPZ?e=tMZpUn) to my OneNote of APAD. It starts since Dec. 25, 2022. 
+
+---
 
 # Notes
 ## High Energy Theory
@@ -39,6 +43,7 @@ I was fascinated by this interesting object, but I failed to understand its mean
 
 I introduced basic electroweak theory, explained the zero-neutrino-mass requirement in SM, and discuss some some mass models, including the Seesaw mechanism.
 
+---
 
 # Report
 1. [Hawking Emission](../files/hawkingppt.pdf) [En]
@@ -53,6 +58,7 @@ This is the report I made to the professors from Turkey on my theoretical work i
 
 The continuation of the last report. I corrected my calculation, and proved some theorems, re-designed and elaborated on another experiment to test the model. 
 
+---
 
 # Miscellanous Thoughts 
 1. [GUP, the Generalized Uncertainty Principle](../files/GUP.pdf) [En]
