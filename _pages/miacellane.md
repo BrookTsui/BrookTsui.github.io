@@ -7,10 +7,12 @@ author_profile: true
 
 For me, so many aspects in my life worth to log, but the most memorable joyous time is the two years among the friends of the drama club. We recite, rehersal, and performe. I have passed the most lighthearted age. It howled, and darted away. O ever weeping, O ever youthful.
 
-<p style="display: flex;flex-flow: row wrap;flex: 1 0 50%;">  <img src="/_pages/age.jpg"  width="50%" height=""/></p>
-<p style="display: flex;flex-flow: row wrap;flex: 1 0 50%;">  <img src="/_pages/age.jpg"  width="50%" height=""/></p>
-<p style="display: flex;flex-flow: row wrap;flex: 1 0 50%;">  <img src="/_pages/age.jpg"  width="50%" height=""/></p>
-<p style="display: flex;flex-flow: row wrap;flex: 1 0 50%;">  <img src="/_pages/age.jpg"  width="50%" height=""/></p>
+    <ul>
+        <li style=""><img src="/_pages/age.jpg"  width="50%" height=""/></li>
+        <li><img src="/_pages/age.jpg"  width="50%" height=""/></li>
+        <li><img src="/_pages/age.jpg"  width="50%" height=""/></li>
+        <li><img src="/_pages/age.jpg"  width="50%" height=""/></li>
+    </ul>
 
  <img src="/_pages/age.jpg"  width="50%" height=""/>
 
