@@ -1,3 +1,4 @@
+
 It is an answer, partly, for one of my long-nagging questions since learning QM: What will happen if we alter the (anti-)commutators? With the complex number, the comparatively perfect number field, $\pm 1$ is nothing but two incidences, and the more general coefficients between operators are **$ab+e^{i \theta} ba=0$. What will result from it?**
 
 One day, my friend, a future experimentalist, showed me their current work relative to it and said they need a theory guy. Then I said yes. 
