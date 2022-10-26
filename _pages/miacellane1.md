@@ -1,13 +1,11 @@
 ---
 layout: archive
 title: "My Life"
-permalink: /miscellane/
+permalink: /miscellane/1/
 author_profile: true
 ---
 
-For me, so many aspects in my life worth to log, but the most memorable joyous time is the two years among the friends of the drama club. We recite, rehersal, and performe. I have passed the most lighthearted age.
-
-It howled, and darted away. O ever weeping, O ever youthful.
+For me, so many aspects in my life worth to log, but the most memorable joyous time is the two years among the friends of the drama club. We recite, rehersal, and performe. I have passed the most lighthearted age. It howled, and darted away. O ever weeping, O ever youthful.
 
 <!-- <ul style="max-width:100%;margin:0">
         <li style="list-style: none;
@@ -56,28 +54,63 @@ It howled, and darted away. O ever weeping, O ever youthful.
 
 <img src="/_pages/meandhai.jpg"  width="50%" height=""/> -->
 
-<p style="text-align:center;"> <img src="/_pages/age.jpg"  width="50%" height=""/></p>
+<!-- 居中排列办法-->
+<!-- <p style="text-align:center;"> <img src="/_pages/age.jpg"  width="50%" height=""/></p>
 <p style="text-align:center;"> Age </p>
 
 <p style="text-align:center;"><img src="/_pages/bus.jpg"  width="50%" height=""/> </p>
-<p style="text-align:center;"> Bus Snap </p>
+<p style="text-align:center;"> Bus </p>
 <p style="text-align:center;"> <img src="/_pages/allofus.jpg"  width="50%" height=""/></p>
-<p style="text-align:center;"> Before the performence </p>
+<p style="text-align:center;"> Allofus </p>
 <p style="text-align:center;"><img src="/_pages/meandhai.jpg"  width="50%" height=""/> </p>
-<p style="text-align:center;"> Chameleon, by Chekhov </p>
+<p style="text-align:center;"> Meandhai </p> -->
+
+<!-- 两行两列排列办法-->
+
+<style>
+    .div1 {
+        display: flex;
+    }
+    .div12 {
+        flex:1;
+        self-align:center;
+    }
+    </style>
+
+<div class="div1">
+
+<div class="div12">
+<img src="https://cdn.jsdelivr.net/gh/BrookTsui/BrookTsui.github.io@master/_pages/bus.jpg"  width="100%" height="100%"/>
+</div>
+
+<div class="div12">
+<img src="https://cdn.jsdelivr.net/gh/BrookTsui/BrookTsui.github.io@master/_pages/age.jpg"  width="100%" height="100%"/>
+</div>
+
+</div>
+
+<div class="div1">
+
+<div class="div12">
+<img src="https://cdn.jsdelivr.net/gh/BrookTsui/BrookTsui.github.io@master/_pages/allofus.jpg"  width="100%" height="100%"/>
+</div>
+
+<div class="div12">
+<img src="https://cdn.jsdelivr.net/gh/BrookTsui/BrookTsui.github.io@master/_pages/meandhai.jpg"  width="100%" height="100%"/>
+</div>
+
+</div>
 
 <br>
 
-My knights of heart are H. Hesse, W. Whitman, and R. Feynman.
+I like Hermann Hesse, W. Whitman, and R. Feynman.
 
 <p style="text-align:center;"> <img src="/_pages/hesse.jpg"  width="30%" height=""/></p>
 
-<p style="text-align:center;"> H. Hesse </p>
-
-_We are sun and moon, dear friend; we are sea and land. It is not our purpose to become each other; it is to recognize each other, to learn to see the other and honor him for what he is: each the other's opposite and complement_
+<p style="text-align:center;"> Hesse </p>
 
 <p style="text-align:center;"> <img src="/_pages/feynman.jpg"  width="30%" height=""/></p>
 
-<p style="text-align:center;"> R. Feynman </p>
+<p style="text-align:center;"> Feynman </p>
 
-_The first principle is that you must not fool yourself, and you are the easiest person to fool_
+- **The first principle is that you must not fool yourself, and you are the easiest person to fool**
