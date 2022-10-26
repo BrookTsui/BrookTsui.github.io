@@ -42,21 +42,23 @@ For me, so many aspects in my life worth to log, but the most memorable joyous t
 </div>
 
 <div class="div12">
-<img class="img1" src="/_pages/meandhai.jpg"  width="100%" height="100%"/>
+<img class="img1" src="/_pages/chameleon.jpg"  width="100%" height="100%"/>
 </div>
 
 </div>
 
 <br>
 
-I like Hermann Hesse, W. Whitman, and R. Feynman.
+My knights of heart are H. Hesse, W. Whitman, and R. Feynman.
 
 <p style="text-align:center;"> <img src="/_pages/hesse.jpg"  width="30%" height=""/></p>
 
-<p style="text-align:center;"> Hesse </p>
+<p style="text-align:center;"> H. Hesse </p>
+
+*We are sun and moon, dear friend; we are sea and land. It is not our purpose to become each other; it is to recognize each other, to learn to see the other and honor him for what he is: each the other's opposite and complement*
 
 <p style="text-align:center;"> <img src="/_pages/feynman.jpg"  width="30%" height=""/></p>
 
-<p style="text-align:center;"> Feynman </p>
+<p style="text-align:center;"> R. Feynman </p>
 
-- **The first principle is that you must not fool yourself, and you are the easiest person to fool**
+*The first principle is that you must not fool yourself, and you are the easiest person to fool*
