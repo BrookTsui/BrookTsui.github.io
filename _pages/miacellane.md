@@ -26,11 +26,11 @@ For me, so many aspects in my life worth to log, but the most memorable joyous t
 <div class="div1">
 
 <div class="div12">
-<img class="img1" src="https://cdn.jsdelivr.net/gh/BrookTsui/BrookTsui.github.io@master/_pages/bus.jpg"  width="100%" height="100%"/>
+<img class="img1" src="/_pages/bus.jpg"  width="100%" height="100%"/>
 </div>
 
 <div class="div12">
-<img  class="img1" src="https://cdn.jsdelivr.net/gh/BrookTsui/BrookTsui.github.io@master/_pages/age.jpg"  width="100%" height="100%"/>
+<img  class="img1" src="/_pages/age.jpg"  width="100%" height="100%"/>
 </div>
 
 </div>
@@ -38,11 +38,11 @@ For me, so many aspects in my life worth to log, but the most memorable joyous t
 <div class="div1">
 
 <div class="div12">
-<img class="img1" src="https://cdn.jsdelivr.net/gh/BrookTsui/BrookTsui.github.io@master/_pages/allofus.jpg"  width="100%" height="100%"/>
+<img class="img1" src="/_pages/allofus.jpg"  width="100%" height="100%"/>
 </div>
 
 <div class="div12">
-<img class="img1" src="https://cdn.jsdelivr.net/gh/BrookTsui/BrookTsui.github.io@master/_pages/meandhai.jpg"  width="100%" height="100%"/>
+<img class="img1" src="/_pages/meandhai.jpg"  width="100%" height="100%"/>
 </div>
 
 </div>
