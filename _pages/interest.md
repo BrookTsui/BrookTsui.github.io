@@ -29,7 +29,7 @@ From both theoretical and experimental aspects, neutrino physics is a subject no
 
 # Dark Sector
 ---
-*"What is this flame in darkness whose sparks are the stars?"*
+*"What is this unseen flame of darkness whose sparks are the stars?"*
 
 I like this verse written by Tagore, and think it as the exact word for the Dark Sector, the unseen world floatting around us with the rare emergence through various *(if possible)* portals. 
 
@@ -41,7 +41,7 @@ Nonetheless, thanks to the common spacetime shared by DM and us, we do not need 
 
 Surely, we might need some new fundamental rules for exploration. It is an answer awaiting the right questions. 
 
-# Duality and Entanglement
+# Duality and Entanglement Higher Dimensional Physics
 ---
 Quantum entanglemtn was initiated by [the EPR paradox](https://en.wikipedia.org/wiki/EPR_paradox), developed ably by many others, and now has increasingly become an important branch that seems able to unify many disciplines.  
 
@@ -60,11 +60,12 @@ The recent child is [Black Hole/Superconductor Correspondence](https://www.youtu
 Quantum liquids, quark-gluon plasma, strongly correlated electron systems and other quantum exotic matters awaiting both sides to collaborate to tackle. 
 
 
-# Black Hole and Spacetime
+# Black Hole and Extra-Dimension
 ---
-AdS/CFT also studies BHs, I mainly mean the classical BHs, at least from the GR aspect in this section. You can consider it as Kerr scalar hair, Penrose process, BH shadow, casuality, and whatnot. 
 
 I like it because of the beauty of GR. What is your feeling when you know that the actual inertia guy is who freely falls instead of you standing readily on the earth? For me, a bolt of electrons raced up my spine. GR likes marbles, among which the most saliant would be, personally, BHs, the simple and elegant objects marrying QM with GR. 
+
+GR itself does not answer the question that why gravity is so small, 
 
 To better understand BHs, we should dig deep into the geometery of spacetime, whcich is an active field. Although some one consider it as a kind of old school physics. 
 

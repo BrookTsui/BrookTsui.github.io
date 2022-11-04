@@ -34,6 +34,6 @@ Months later, I concluded all my work in a [report](../files/BH-T.pdf) and submi
 
 When logging this period, I came to the [paper](https://arxiv.org/abs/1904.04843) written by T. Jacobson *et al*  on the negative temperature, in which they considered the BHs in the casual diamonds with the appearance of upper energy bound. Another interesting possibility I never thought of before. 
 
-In hindsight, I have learned a lot from this subject, which has led me into the palace of theoretical physics. I appreciate all of it in terms of this. However, this has also exposed my problems like being afraid to confer with the mentor and giving up easily. Actually, there were some possible ways to continue, but because of my stubborn desire to do something different, or my excessive insistence on the original goal, I finally missed all of them. 
+In hindsight, I have learned a lot from this subject, which has led me into the palace of theoretical physics. I appreciate all of it in terms of this. However, this has also exposed my problems like being too timid to confer with the mentor and giving up easily. Actually, there were some possible ways to continue, but because of my stubborn desire to do something different, or my excessive insistence on the original goal, I finally missed all of them. 
 
 Now, after a whole year, I believe I have overcome them. But still, hope this unsuccessful starting could be my toll ticking once I am on the verge of relapsing.

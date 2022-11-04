@@ -32,7 +32,7 @@ The final report of the class about string theory.
 
 4. Quantum Electron Dynamics [En]
 
-I lavish to teach others since it also benefits me a lot. This note writen when I was teaching one of my roommates about QED for his study on quantum optics.
+I like to teach since it always inspires me a lot. This note is writen for teaching one of my roommates about QED for his study on quantum optics.
 
 5. [Majorana Fermions](../files/majorana.pdf) [En]
 
