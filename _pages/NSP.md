@@ -13,19 +13,16 @@ Their motivation lies in the flaw of the experimental data used by the [paper](h
 
 Firstly, I studied the necessary mathematical setting - **twisted Hopf algebra**, which is a general aspect of the quantum group, by some reviews. I realized the scheme in the paper is not precise, and we should necessarily **go beyond the original proposal** to discuss the many-body condition. However, it requires to extend the theory, and there are rarely discussions about it. Within several days, I gave it a first try. But it turned our to be too naive that I misunderstood something. After some time, when I had carefully studied the structure of Hopf algebra and then looked back I spotted the right way to **extend it and gave the proof**. Besides, the treatment of mathematics in the paper is not satisfactory, so I exploited permutation algebra to make it more systematically. Twisting it yields twisted Fock space out of Hilbert space.  
 
-Standing on a complete perspective of the theory made me realized that the experimentalists had a wrong picture about the physics. So I made a report to clarify these. I was impressed the comment made by the mentor, "We are experimentalists, and don't really know the theory. We trust you." They did not treat me as a student, but as a accountable collaborator. 
+Standing on a complete perspective of the theory made me realized that the experimentalists had misread the physics. So I made a report to clarify them, and was impressed the comment made by the mentor, "We are experimentalists and don't really know the theory. We trust you." They did not treat me as a mere student but an accountable collaborator. 
 
-With the generalized model, we then **decide to focus on a rather exotic atomic transition** with three electrons cramped in 1S, which is impossible in SM. The probability roots in the new phase and is proportional to $\chi$, whose extreme smallness will suppress such transition. 
+With the generalized model, we then **decided to design a new experiment** which is more appropriate for detection. There are some unimaginable hassels in designing, such as that the intrinsic value of atomic energy cannot be measured at all, and the only energy measurable experimentally is the binding energy. Theoretically we can calculate the probability of a overlap for any process in non-commutative spacetime, but are they uniquely distinguishable from the regular background? Even with these done, it is still daunting to decide which date published to be used. Nonetheless, I have **benefited a lot from their different perspective**, and understanded what they care about.
 
-By digging deep into the model, I also found **a secret mistake** in the phase structure **made by previous works**. They seem to incorrectly treat the phase difference as the absolute phase multiplying in the front of states. It has little effect on the numerical result. Nonetheless, only after the correction, it is consistent with QFT. 
-
-We are planning to redesign the experiment, but there are many problems that I have never thought of, such as that the intrinsic value of atomic energy cannot be measured at all, and the only energy measurable experimentally is the binding energy. Theoretically we can calculate the probability of a leap for any process in non-easy spacetime, but it is also a question of whether the experimentally seen or unseen signal can be uniquely locked to this leap. Even with these done, it is daunting to decide which date published to be used.  
-
-Besides atoms, we also considered the possibility of detection in nuclei, where experiments are more precise. After conferring, I vetoed the plan given the current lack of knowledge about the transitions in nuclei and the ambiguity in the strictness of the shell model, which both will make the discussion convoluted. 
-
----
-
+By digging deep into the model, I also found **a mistake** in the phase structure **made by previous works**. They seem to incorrectly treat the phase difference as the absolute phase multiplying in the front of states. Although it has little difference for the numerical result, but only after the correction, the model is consistent with field theory. 
 
 When theoretical dust settles, experimentalists start to find data and set the upper bound of $\chi$. The recent progress limits its value under $10^{-30} ev^{-1}$. 
+ 
+---
+Without theoretical mentors, I am responsible solely for all the theoretical parts. Such
+pressures and trust quickly **changed my mindset from that of a student to a researcher**. I appreciate this project. 
 
-Now, the paper is in writing, and the theoretical part I am responsible for is done. We anticipate publishing on ***Phy. Rev. Lett.*** at the end of the year. 
+Now, the paper is in writing. We have finished the draft, and anticipate publishing on ***Phy. Rev. Lett.*** at the end of the year. 
