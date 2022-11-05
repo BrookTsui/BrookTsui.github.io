@@ -1,4 +1,5 @@
-##Phase 1
+
+## Phase 1
 
 At the beginning of March 2022, I emailed Prof. Tsai asking if he intended to recruit a student for the summer research. Unfortunately, he had already been mentoring four undergraduates, and so there was no room for me. But he said welcome for my physics questions. Therefore, I began to study his work and communicate with him.   
 

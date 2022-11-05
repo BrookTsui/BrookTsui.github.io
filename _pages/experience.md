@@ -18,7 +18,7 @@ Location: Weinan, Shaanxi Province, China
 
 Location: Sichuan University (SCU), China
 
-Major: Mechinical Engineering
+Major: Mechanical Engineering
 
 - **Apr. 2022 - Sep. 2023**
 
