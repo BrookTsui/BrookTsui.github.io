@@ -1,6 +1,5 @@
+## Phase 1
 As I said, neutrino physics is a not-to-miss subject, where **theories and experiments parade abreast**. So I came to Prof. Yu, who has been recruiting students for the scientific innovation program. 
-
----
 
 From Sakurai's *advanced quantum mechanics*, I know that neutrino oscillation originates from **mass eigenstates differing from interactive eigenstates**. But I neither find it attractive nor understand its meaning. 
 
@@ -11,12 +10,13 @@ Besides, the Hierarchy problem is also profound. So initially, I hope to study t
 However, Prof. Yu suggested I focus on neutrino oscillation since studying the Higgs mechanism requires much more than I thought and may not be appropriate for an undergraduate. And I accepted. 
 
 ---
-
+## Phase 2
 After reading many [review articles](https://pdg.lbl.gov/2020/reviews/rpp2020-rev-neutrino-mixing.pdf), I'm sure he's right. The various seesaw mechanisms with the common feature, right-handed sterile neutrino, for proffering tiny neutrino mass seems satisfying. And on a low-energy scale, the Weinberg operator endorses several experiments. The theory looks comparatively complete and promising unless experiments reveal more information, like the exact value of $\delta_{cp}$ and the existence of the Majorana mass or not. 
 
 Here is the point, we need to know **to what phenomena will these models lead us**. Neutrino oscillation in complex environments like the supernova core is especially a mess, for which we should go. 
 
 ---
+## Phase 3
 
 I **studied the MSW effect** from two different paths: discussing interactive states evolution by the **effective Hamiltonian** [(follow this)](https://arxiv.org/abs/1802.05781), and applying **the density matrix and the pendulum scenario** [(follow this)](https://arxiv.org/abs/1001.2799) to study its evolution under two-flavor approximation. For the latter, I also **numerically simulated the solar neutrino evolution** by MMA in a simplified model. I reported my progress in the meeting. 
 
@@ -25,7 +25,7 @@ With the preparation done, I decided to **head for the supernova neutrino proble
 In this region, active/sterile (if exists) neutrino oscillation plays an important role, and collision is indispensable now. So introduced by Lucas's [paper](https://arxiv.org/abs/1908.04244), I began **the study on QKE**. 
 
 ---
-
+## Phase 4
 Meanwhile, I spotted the **surprising similitude between active/sterile neutrino oscillation and dark photon/photon oscillation** because they are all about two-object mixing, with one being sterile. And I found there seems to **lack of papers discussing** dark photon/photon mixing by QKE and density matrix. Conferring with the mentor, we thought it would be an appropriate project for me. 
 
 The nagging point is the collision term. Available literature generally discusses it directly from Feynman diagrams. We should **construct collision terms from QFT**, which I have been studying so far.  
