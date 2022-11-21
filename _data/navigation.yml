@@ -12,12 +12,9 @@ main: #todo
   - title: "Archive"      
     url: /note/
 
-  - title: "Miscellane"
-    url: /miscellane/    
-
   - title: "Course"
     url: /course/  
 
-  - title: "Experience"
-    url: /experience/
+  - title: "Miscellane"
+    url: /miscellane/  
 

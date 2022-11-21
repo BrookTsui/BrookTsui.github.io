@@ -15,11 +15,30 @@ I also relish the pronunciation similar to 'book.'
 
 ---
 
-I am an undergraduate student of Sichuan University (China) majoring Physics. I am interested in both HEP-theory and phenomenology, including extra-dimension physics (AdS/CFT, RS model, *etc*), dark matter, black hole, neutrino. I relish the deep and sometimes serendipitous convergence of them. 
+I am an undergraduate student of Sichuan University (China) majoring Physics. I am interested in both HEP-theory and phenomenology, including extra-dimension physics (AdS/CFT, RS model, *etc*), dark matter, black hole, neutrino, string phenomenology, and especially the deep and serendipitous convergence of them. 
 
-Look up at the sky, a few birds flying across different disciplines of physics, seeing the various islands serendipitously converge at the end of the horizon. I wish I could be one of these free souls someday, straddling different fields, uncovering the unforeseeable unification. 
+I wish to be one of the free birds flying across different disciplines of physics, uncovering the unforeseeable unification. 
 
-So I beat on. 
+---
 
-> *The powerful play goes on, and you may contribute a verse.*
+- Apr. 2018 - Sep. 2023
+
+Location: Sichuan University, CHN
+
+Physics
+
+- Aug. 2021 - Sep. 2021 
+
+Location: Shing-Tong Yau Mathematical Science Center, CHN
+
+Summer School for Theoretical Physics Frontier
+
+
+- Jan. 2023 - Apr. 2023 (imminent)
+
+Location: Institute of Theoretical Physics, Chinese Academy of Science, CHN
+
+Visiting Student 
+
+
 
