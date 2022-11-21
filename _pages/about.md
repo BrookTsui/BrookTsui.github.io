@@ -15,7 +15,7 @@ I also relish the pronunciation similar to 'book.'
 
 ---
 
-I am an undergraduate student of Sichuan University (China) majoring Physics. I am interested in both HEP-theory and phenomenology, including extra-dimension physics (AdS/CFT, RS model, *etc*), dark matter, black hole, neutrino, string phenomenology, and especially the deep and serendipitous convergence of them. 
+I am an undergraduate student of Sichuan University (SCU) majoring Physics. I am interested in both HEP-theory and phenomenology, including extra-dimension physics (AdS/CFT, RS model, *etc*), dark matter, black hole, neutrino, string phenomenology, and especially the deep and serendipitous convergence of them. 
 
 I wish to be one of the free birds flying across different disciplines of physics, uncovering the unforeseeable unification. 
 
@@ -25,7 +25,7 @@ I wish to be one of the free birds flying across different disciplines of physic
 
 Location: Sichuan University, CHN
 
-Physics
+Major Physics
 
 - Aug. 2021 - Sep. 2021 
 

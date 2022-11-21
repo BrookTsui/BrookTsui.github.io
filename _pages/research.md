@@ -15,12 +15,12 @@ author_profile: true
 ## 2. Noncummutative Spacetime Phenomenology
 
 - Institution: Sichuan University, China
-- Mentor: [Xin-Ted Lin](https://inspirehep.net/authors/1260002?ui-citation-summary=true)
+- Mentor: Xin-Ted Lin (Experimentalist)
 - Date: Apr. 2022 - Dec. 2022
 - Arxiv: 
 
 
-## 3. Bound on Primordial Black Holes Being DM
+## 3. Primordial Black Holes Hawking radiation and Dark Matter
 - Institution: University of Notre Dame, USA
 - Mentor: [Yuhsin Tsai](https://inspirehep.net/authors/1259942?ui-citation-summary=true)
 - Date: July 2022 - Present

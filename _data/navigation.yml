@@ -1,13 +1,13 @@
 # main links links
 main: #todo
   - title: "Home"
-    url: /
-
-  - title: "Interest"
-    url: /interest/      
+    url: /    
     
   - title: "Research"
     url: /research/
+
+  - title: "Log"
+    url: /interest/  
 
   - title: "Archive"      
     url: /note/
