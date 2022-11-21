@@ -11,27 +11,23 @@ This is my archive where one can find all my notes and haphazard writings.
 
 # Notes
  
-1. [Black Hole Thermodynamics, Negative Temperature](../files/BH-T.pdf) [Ch]
-
-This is the PDF version of my report about black hole thermodynamics and negative temperature. A brief introduction to the topic covering the basic BH thermodynamics, the derivation of Hawking temperature, the discussion of negative temperature. 
-
-2. [String Theory and CFT](../files/stringtheory.pdf) [Ch]
+1. [String Theory and CFT](../files/stringtheory.pdf) [Ch]
 
 The string part covers mainly the front half of David Tong's lecture, and the CFT part comes from several sources. 
 
-3. [T-Duality](../files/Tduality.pdf) [En]
+2. [T-Duality](../files/Tduality.pdf) [En]
 
 The final report of the class about string theory. 
 
-4. Quantum Electron Dynamics [En]
+3. Quantum Electron Dynamics [En]
 
 I like to teach since it always inspires me a lot. This note is writen for teaching one of my roommates about QED for his study on quantum optics.
 
-5. [Majorana Fermions](../files/majorana.pdf) [En]
+4. [Majorana Fermions](../files/majorana.pdf) [En]
 
 I was fascinated by this interesting object, but I failed to understand its meaning the first time I came to it. Years later, when I began to study neutrino physics, it appears again and I tried to study it. 
 
-6. Neutrino Mass [En]
+5. Neutrino Mass [En]
 
 I introduced basic electroweak theory, explained the zero-neutrino-mass requirement in SM, and discuss some some mass models, including the Seesaw mechanism.
 
@@ -42,13 +38,9 @@ I introduced basic electroweak theory, explained the zero-neutrino-mass requirem
 
 This is the report I gave in the collaboration with Prof. Tsai of Univ. of Notre Dame. I briefly discussed the curved-spacetime QFT, the calculation of the Hawking emission rate, and some perspectives on the subject.  
 
-2. [PEPV](../files/pepv.pdf) [En]
+2. [PEPV](../files/pepv.pdf) [En], [Exotic Transition](../files/exotic%20transition.pdf) [En]
 
-This is the report I made to the professors from Turkey on my theoretical work in the PEPV. Some ideas were unclear then, and I developed them later on. The final form is in the paper. 
-
-3. [Exotic Transition](../files/exotic%20transition.pdf) [En]
-
-The continuation of the last report. I corrected my calculation, and proved some theorems, re-designed and elaborated on another experiment to test the model. 
+The first report I made to the overseas collaborators is on my theoretical work about the non-commutative spacetime. I showed the developed model in the second one, and discussed the experiments for detection.  
 
 ---
 

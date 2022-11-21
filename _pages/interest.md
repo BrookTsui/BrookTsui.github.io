@@ -4,7 +4,6 @@ title: ""
 permalink: /interest/
 author_profile: true
 ---
-I have a broad interest across many fields, and enjoy the diversity as well as their serendipitous coalescence. Hope to be able to understand the essence of important physics, and then devote myself into all fields I wonder why. 
 
 # Neutrino Physics
 ---
@@ -60,10 +59,10 @@ The recent child is [Black Hole/Superconductor Correspondence](https://www.youtu
 Quantum liquids, quark-gluon plasma, strongly correlated electron systems and other quantum exotic matters awaiting both sides to collaborate to tackle. 
 
 
-# Black Hole and Extra-Dimension
+# Black Hole and GR
 ---
 
-I like it because of the beauty of GR. What is your feeling when you know that the actual inertia guy is who freely falls instead of you standing readily on the earth? For me, a bolt of electrons raced up my spine. GR likes marbles, among which the most saliant would be, personally, BHs, the simple and elegant objects marrying QM with GR. 
+The beauty of GR: what is your feeling when you know that the actual inertia guy is who freely falls instead of you standing readily on the earth? For me, a bolt of electrons raced up my spine. GR likes marbles, among which the most saliant would be, personally, BHs, the simple and elegant objects marrying QM with GR. 
 
 GR itself does not answer the question that why gravity is so small, 
 

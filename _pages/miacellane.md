@@ -50,11 +50,11 @@ For me, so many aspects in my life worth to log, but the most memorable joyous t
 <br>
 In the picture of x<0, y>0 quadrant, we mimiced a bus accidence, and I was the driver. I thumbed up toward the camera when another guy "died" :)
 
-In x<0, y<0, we were gonna perform an original drama about an historical figure, and I was a student. 
+In x<0, y<0, we were gonna perform an original drama about a historical figure, and I was a student. 
 In x>0, y<0, I was a servant in the play *the chameleon* writen by Chekhov. 
 
 ---
-My knights of heart are H. Hesse, W. Whitman, and R. Feynman. I also admire C. N. Yang on his taste, tolerance, and pernsonality (a real *君子*). 
+My knights of heart are H. Hesse, W. Whitman, and R. Feynman. 
 
 <p style="text-align:center;"> <img src="/_pages/hesse.jpg"  width="30%" height=""/></p>
 
