@@ -9,18 +9,15 @@ author_profile: true
 - Institution: Sichuan University, China
 - Mentor: [Haitang Yang](https://inspirehep.net/authors/1077699?ui-citation-summary=true)
 - Date: Dec. 2020 - Jun. 2021
-
-**Click [here](BHT.md) to see more**. 
-
+- Report: [pdf](../files/BH-T.pdf)
 
 
 ## 2. Noncummutative Spacetime Phenomenology
 
 - Institution: Sichuan University, China
 - Mentor: [Xin-Ted Lin](https://inspirehep.net/authors/1260002?ui-citation-summary=true)
-- Date: Apr. 2022 - Present
-
-**Click [here](NSP.md) to see more**.
+- Date: Apr. 2022 - Dec. 2022
+- Arxiv: 
 
 
 ## 3. Bound on Primordial Black Holes Being DM
@@ -28,12 +25,9 @@ author_profile: true
 - Mentor: [Yuhsin Tsai](https://inspirehep.net/authors/1259942?ui-citation-summary=true)
 - Date: July 2022 - Present
 
-**Click [here](PBH.md) to see more**. 
-
 
 ## 4. Dark Sector Oscillation
 - Institution: Institute of Theoretical Physics, Chinese Academy of Sciences (ITP-CAS), China
 - Mentor: [Jianghao Yu](https://inspirehep.net/authors/1066117?ui-citation-summary=true)
 - Date: Aug. 2022 - Present
 
-**Click [here](DSO.md) to see more**. 

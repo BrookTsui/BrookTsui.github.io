@@ -15,19 +15,11 @@ I also relish the pronunciation similar to 'book.'
 
 ---
 
-Born on 15 Aug. 2000, I grew up in a typical family in China. 
-My home town located on the loess plateau has nothing special. However, Chengdu, where I have been pursuing my B.S. in physics, has plenty of fancy stories to tell other than the household Sichuan Cuisine. 
-
-The golden shimmering city where I came to my genuine interest, my beloved, and my circuitous upgrowing from which the vulnerable me now set off for the future. 
-
----
-
-Reading was my once escapism from the hustle and bustle. The joyous ecstasy emerges in silence, leading me to roam around the majestic world, where I met Plato and B. Russell, listened to the brief history of humankind, experienced the brief history of time, took a ride on the captain's ship, and eventually landed on the archipelago called physics. 
+I am an undergraduate student of Sichuan University (China) majoring Physics. I am interested in both HEP-theory and phenomenology, including extra-dimension physics (AdS/CFT, RS model, *etc*), dark matter, black hole, neutrino. I relish the deep and sometimes serendipitous convergence of them. 
 
 Look up at the sky, a few birds flying across different disciplines of physics, seeing the various islands serendipitously converge at the end of the horizon. I wish I could be one of these free souls someday, straddling different fields, uncovering the unforeseeable unification. 
 
 So I beat on. 
 
 > *The powerful play goes on, and you may contribute a verse.*
-![tupian](whitman.jpg)
 
